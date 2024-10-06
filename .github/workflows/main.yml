@@ -1,20 +1,65 @@
+# name: Auto-Tweet
+
+# on:
+#   schedule:
+#     - cron: "0 8,11,13,18,21 * * *"
+
+# jobs:
+#   post-tweets:
+#     runs-on: ubuntu-latest
+#     steps:
+#       - uses: actions/checkout@v3
+#       - name: Install dependencies
+#         run: npm install
+#       - name: Run script
+#         env:
+#           CONSUMER_KEY: ${{ secrets.CONSUMER_KEY }}
+#           CONSUMER_SECRET: ${{ secrets.CONSUMER_SECRET }}
+#           ACCESS_TOKEN_KEY: ${{ secrets.ACCESS_TOKEN_KEY }}
+#           ACCESS_TOKEN_SECRET: ${{ secrets.ACCESS_TOKEN_SECRET }}
+#         run: node app/index.js
+
+#       - name: Update tweets.json
+#         if: ${{ success() }}
+#         run: |
+#           git config --global user.name 'github-actions[bot]'
+#           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+#           git add app/tweets.json
+#           git commit -m "Updated tweets.json"
+#           git push
+
 name: Auto-Tweet
 
 on:
   schedule:
-    - cron: '0 8,11,13,18,21 * * *' 
+    # Runs at 2:30 AM, 5:30 AM, 7:30 AM, 12:30 PM, and 3:30 PM UTC (IST: 8:00 AM, 11:00 AM, 1:00 PM, 6:00 PM, 9:00 PM)
+    - cron: "30 2,5,7,12,15 * * *"
 
 jobs:
   post-tweets:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v3 # Checkout the repository
+
       - name: Install dependencies
-        run: npm install
+        run: npm install # Install required npm packages
+
       - name: Run script
         env:
           CONSUMER_KEY: ${{ secrets.CONSUMER_KEY }}
           CONSUMER_SECRET: ${{ secrets.CONSUMER_SECRET }}
           ACCESS_TOKEN_KEY: ${{ secrets.ACCESS_TOKEN_KEY }}
           ACCESS_TOKEN_SECRET: ${{ secrets.ACCESS_TOKEN_SECRET }}
-        run: node app/index.js
+        run: node app/index.js # Execute your tweet posting script
+
+      - name: Update tweets.json
+        if: ${{ success() }} # Only proceed if the script was successful
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add app/tweets.json
+          git commit -m "Updated tweets.json"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # Use GitHub token for authentication
