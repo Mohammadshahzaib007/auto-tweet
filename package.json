@@ -1,0 +1,22 @@
+{
+  "name": "auto-tweet",
+  "version": "1.0.0",
+  "description": "This is a small nodejs script that automatically posts tweets.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node app/index.js"
+  },
+  "keywords": [
+    "tweet",
+    "automatic tweet",
+    "x tweet"
+  ],
+  "author": "Mohammad Shahzaib",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "nodejs": "0.0.0",
+    "twitter-api-v2": "^1.17.2"
+  }
+}
