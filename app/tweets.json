@@ -1,14 +1,5 @@
 [
   {
-    "type": "poll",
-    "text": "Which web development tool do you find most indispensable?",
-    "options": ["Visual Studio Code", "Webpack", "Babel", "NPM/Yarn"]
-  },
-  {
-    "type": "tweet",
-    "text": "In #VueJS, computed properties are a game changer! They help optimize your app by caching values until dependencies change. 💡 \n#Vue #JavaScript"
-  },
-  {
     "type": "tweet",
     "text": "Don't let your components grow too big in #ReactJS! Break them down into smaller reusable components. Keeps your code DRY and clean. 🧹 \n#ReactTips #WebDev"
   },
@@ -987,6 +978,11 @@
   {
     "type": "poll",
     "text": "What's your favorite CSS preprocessor?",
-    "options": ["Sass", "Less", "Stylus", "Other (specify)"]
+    "options": [
+      "Sass",
+      "Less",
+      "Stylus",
+      "Other (specify)"
+    ]
   }
 ]
