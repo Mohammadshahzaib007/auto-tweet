@@ -1,15 +1,5 @@
 [
   {
-    "type": "poll",
-    "text": "What's your favorite CSS preprocessor?",
-    "options": [
-      "Sass",
-      "Less",
-      "Stylus",
-      "Other (specify)"
-    ]
-  },
-  {
     "type": "tweet",
     "text": "💡 Pro tip: Use #TailwindCSS for fast prototyping. Its utility-first approach saves time and makes your design super responsive! \n#Frontend #CSS"
   },
