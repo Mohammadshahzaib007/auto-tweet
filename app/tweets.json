@@ -4,6 +4,11 @@
     "text": "Don't let your components grow too big in #ReactJS! Break them down into smaller reusable components. Keeps your code DRY and clean. 🧹 \n#ReactTips #WebDev"
   },
   {
+    "type": "poll",
+    "text": "What's your favorite CSS preprocessor?",
+    "options": ["Sass", "Less", "Stylus", "Other (specify)"]
+  },
+  {
     "type": "tweet",
     "text": "💡 Pro tip: Use #TailwindCSS for fast prototyping. Its utility-first approach saves time and makes your design super responsive! \n#Frontend #CSS"
   },
@@ -974,15 +979,5 @@
   {
     "type": "tweet",
     "text": "How do you manage your workflow for larger teams? For me, it’s about having good communication tools and clear responsibilities. 💼📅 \n#DevLife #TeamManagement"
-  },
-  {
-    "type": "poll",
-    "text": "What's your favorite CSS preprocessor?",
-    "options": [
-      "Sass",
-      "Less",
-      "Stylus",
-      "Other (specify)"
-    ]
   }
 ]
