@@ -1,10 +1,6 @@
 [
   {
     "type": "tweet",
-    "text": "💡 Pro tip: Use #TailwindCSS for fast prototyping. Its utility-first approach saves time and makes your design super responsive! \n#Frontend #CSS"
-  },
-  {
-    "type": "tweet",
     "text": "💻 Want to master asynchronous JavaScript? Get comfortable with Promises, Async/Await, and callbacks. Control the flow like a pro! 🚀 \n#JavaScript #WebDevelopment"
   },
   {
