@@ -1,10 +1,6 @@
 [
   {
     "type": "tweet",
-    "text": "💻 Want to master asynchronous JavaScript? Get comfortable with Promises, Async/Await, and callbacks. Control the flow like a pro! 🚀 \n#JavaScript #WebDevelopment"
-  },
-  {
-    "type": "tweet",
     "text": "🌐 Always validate user inputs both on the client-side and server-side! Security first, convenience second. \n#NodeJS #WebSecurity"
   },
   {
