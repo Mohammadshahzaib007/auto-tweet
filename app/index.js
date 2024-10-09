@@ -17,11 +17,29 @@ const postTweet = async (tweet) => {
   }
 };
 
-const postDailyTweets = async () => {
+const postPoll = async (tweet) => {
+  try {
+    await twitterClient.v2.tweet(tweet.text, {
+      poll: {
+        options: tweet.options,
+        duration_minutes: 10080, // 7 days
+      },
+    });
+    return `Poll posted successfully!`;
+  } catch (error) {
+    throw error;
+  }
+};
+
+const postDaily = async () => {
   try {
     let tweet = tweets.shift(); // Get the next tweet from the list
     if (tweet) {
-      const response = await postTweet(tweet); // Post the tweet
+      const response =
+        tweet.type === "tweet"
+          ? await postTweet(tweet.text)
+          : await postPoll(tweet); // Post the tweet
+
       // Save the remaining tweets to the file after posting
       console.log(response);
       fs.writeFileSync(tweetsPath, JSON.stringify(tweets, null, 2));
@@ -33,4 +51,4 @@ const postDailyTweets = async () => {
   }
 };
 
-postDailyTweets();
+postDaily();
