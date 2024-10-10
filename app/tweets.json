@@ -1,10 +1,6 @@
 [
   {
     "type": "tweet",
-    "text": "When in doubt, use #useEffect wisely in #ReactJS. Avoid unnecessary renders by defining your dependencies properly. 🎯 \n#ReactHooks #WebDev"
-  },
-  {
-    "type": "tweet",
     "text": "👀 Keep an eye on browser compatibility when using modern CSS features like Grid and Flexbox. Some users might still be on older versions. \n#CSS #WebDesign"
   },
   {
