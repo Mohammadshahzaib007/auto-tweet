@@ -1,10 +1,6 @@
 [
   {
     "type": "tweet",
-    "text": "🌐 Always validate user inputs both on the client-side and server-side! Security first, convenience second. \n#NodeJS #WebSecurity"
-  },
-  {
-    "type": "tweet",
     "text": "When in doubt, use #useEffect wisely in #ReactJS. Avoid unnecessary renders by defining your dependencies properly. 🎯 \n#ReactHooks #WebDev"
   },
   {
