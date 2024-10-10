@@ -1,10 +1,6 @@
 [
   {
     "type": "tweet",
-    "text": "Organize your #NodeJS project by separating concerns into different modules. This keeps the codebase clean and easier to maintain! 🧑‍💻 \n#BackendDevelopment #WebDev"
-  },
-  {
-    "type": "tweet",
     "text": "A smooth UI is critical for a good user experience. Make sure your #JavaScript animations are efficient to avoid jank! 🎢 \n#FrontendPerformance #CSS"
   },
   {
