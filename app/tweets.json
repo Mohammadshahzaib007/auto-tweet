@@ -1,10 +1,6 @@
 [
   {
     "type": "tweet",
-    "text": "👀 Keep an eye on browser compatibility when using modern CSS features like Grid and Flexbox. Some users might still be on older versions. \n#CSS #WebDesign"
-  },
-  {
-    "type": "tweet",
     "text": "Organize your #NodeJS project by separating concerns into different modules. This keeps the codebase clean and easier to maintain! 🧑‍💻 \n#BackendDevelopment #WebDev"
   },
   {
