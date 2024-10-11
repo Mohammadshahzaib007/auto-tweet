@@ -1,10 +1,6 @@
 [
   {
     "type": "tweet",
-    "text": "Tired of callback hell? Embrace Promises and Async/Await in #JavaScript to simplify your asynchronous code! 🧑‍💻 \n#WebDevTips #JS"
-  },
-  {
-    "type": "tweet",
     "text": "💡 Use #CSS variables (custom properties) to make your styles more flexible and maintainable! \n#Frontend #CSSTips"
   },
   {
