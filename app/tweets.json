@@ -1,10 +1,6 @@
 [
   {
     "type": "tweet",
-    "text": "When using #VueJS, use Vuex for state management in large-scale applications. Keeps your state predictable and manageable! 💡 \n#Vue #JavaScript"
-  },
-  {
-    "type": "tweet",
     "text": "Use meaningful class names when writing #CSS. No one wants to come back to ‘.box-1’ and ‘.box-2’ a few months later. 😅 \n#WebDesign #Frontend"
   },
   {
