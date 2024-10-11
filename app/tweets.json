@@ -1,10 +1,6 @@
 [
   {
     "type": "tweet",
-    "text": "Use meaningful class names when writing #CSS. No one wants to come back to ‘.box-1’ and ‘.box-2’ a few months later. 😅 \n#WebDesign #Frontend"
-  },
-  {
-    "type": "tweet",
     "text": "Tired of callback hell? Embrace Promises and Async/Await in #JavaScript to simplify your asynchronous code! 🧑‍💻 \n#WebDevTips #JS"
   },
   {
