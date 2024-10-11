@@ -1,10 +1,6 @@
 [
   {
     "type": "tweet",
-    "text": "Tired of callback hell? Embrace Promises and Async/Await in #JavaScript to simplify your asynchronous code! 🧑‍💻 \n#WebDevTips #JS"
-  },
-  {
-    "type": "tweet",
     "text": "💡 Use #CSS variables (custom properties) to make your styles more flexible and maintainable! \n#Frontend #CSSTips"
   },
   {
@@ -1095,7 +1091,12 @@
   {
     "type": "poll",
     "text": "Which CSS framework do you prefer for rapid development? 🧑‍💻",
-    "options": ["TailwindCSS", "Bootstrap", "Bulma", "Foundation"]
+    "options": [
+      "TailwindCSS",
+      "Bootstrap",
+      "Bulma",
+      "Foundation"
+    ]
   },
   {
     "type": "tweet",
@@ -1116,7 +1117,12 @@
   {
     "type": "poll",
     "text": "What’s your favorite state management tool for React apps? ⚛️",
-    "options": ["Redux", "Context API", "MobX", "Recoil"]
+    "options": [
+      "Redux",
+      "Context API",
+      "MobX",
+      "Recoil"
+    ]
   },
   {
     "type": "tweet",
@@ -1148,7 +1154,12 @@
   {
     "type": "poll",
     "text": "Which do you prefer for styling your components in #ReactJS? 🎨",
-    "options": ["CSS Modules", "Styled Components", "TailwindCSS", "SASS"]
+    "options": [
+      "CSS Modules",
+      "Styled Components",
+      "TailwindCSS",
+      "SASS"
+    ]
   },
   {
     "type": "tweet",
@@ -1169,7 +1180,12 @@
   {
     "type": "poll",
     "text": "What’s your go-to backend framework? 🛠️",
-    "options": ["ExpressJS", "Koa", "NestJS", "Hapi"]
+    "options": [
+      "ExpressJS",
+      "Koa",
+      "NestJS",
+      "Hapi"
+    ]
   },
   {
     "type": "tweet",
@@ -1190,7 +1206,12 @@
   {
     "type": "poll",
     "text": "Which CSS layout system do you prefer? 💻",
-    "options": ["Flexbox", "CSS Grid", "Float-based layouts", "No preference"]
+    "options": [
+      "Flexbox",
+      "CSS Grid",
+      "Float-based layouts",
+      "No preference"
+    ]
   },
   {
     "type": "tweet",
@@ -1222,7 +1243,12 @@
   {
     "type": "poll",
     "text": "When debugging, what do you prefer? 🧑‍💻",
-    "options": ["Console logs", "Debugger", "Breakpoints", "Alerts"]
+    "options": [
+      "Console logs",
+      "Debugger",
+      "Breakpoints",
+      "Alerts"
+    ]
   },
   {
     "type": "tweet",
@@ -1269,7 +1295,12 @@
   {
     "type": "poll",
     "text": "Which version control system do you use? 🔄",
-    "options": ["Git", "SVN", "Mercurial", "Other"]
+    "options": [
+      "Git",
+      "SVN",
+      "Mercurial",
+      "Other"
+    ]
   },
   {
     "type": "tweet",
@@ -1301,7 +1332,12 @@
   {
     "type": "poll",
     "text": "What’s your go-to database for backend development? 🗄️",
-    "options": ["MySQL", "PostgreSQL", "MongoDB", "SQLite"]
+    "options": [
+      "MySQL",
+      "PostgreSQL",
+      "MongoDB",
+      "SQLite"
+    ]
   },
   {
     "type": "tweet",
@@ -1348,7 +1384,12 @@
   {
     "type": "poll",
     "text": "Which JavaScript array method do you use most often? 🔄",
-    "options": ["map()", "filter()", "forEach()", "reduce()"]
+    "options": [
+      "map()",
+      "filter()",
+      "forEach()",
+      "reduce()"
+    ]
   },
   {
     "type": "tweet",
@@ -1380,7 +1421,12 @@
   {
     "type": "poll",
     "text": "What’s your favorite programming language for backend development? 🛠️",
-    "options": ["Node.js", "Python", "Ruby", "PHP"]
+    "options": [
+      "Node.js",
+      "Python",
+      "Ruby",
+      "PHP"
+    ]
   },
   {
     "type": "tweet",
@@ -1401,7 +1447,12 @@
   {
     "type": "poll",
     "text": "What’s your preferred CSS framework? 🎨",
-    "options": ["Tailwind CSS", "Bootstrap", "Bulma", "Foundation"]
+    "options": [
+      "Tailwind CSS",
+      "Bootstrap",
+      "Bulma",
+      "Foundation"
+    ]
   },
   {
     "type": "tweet",
@@ -1430,7 +1481,12 @@
   {
     "type": "poll",
     "text": "Which #JavaScript concept do you find most challenging? 🤔",
-    "options": ["Closures", "Promises", "Async/Await", "Event Loop"]
+    "options": [
+      "Closures",
+      "Promises",
+      "Async/Await",
+      "Event Loop"
+    ]
   },
   {
     "type": "thread",
