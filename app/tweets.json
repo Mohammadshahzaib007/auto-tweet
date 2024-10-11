@@ -1,10 +1,6 @@
 [
   {
     "type": "tweet",
-    "text": "💡 Use #CSS variables (custom properties) to make your styles more flexible and maintainable! \n#Frontend #CSSTips"
-  },
-  {
-    "type": "tweet",
     "text": "Handling forms in #ReactJS can be tricky. Libraries like Formik or React Hook Form make it easier and reduce boilerplate code! 🧑‍💻 \n#ReactTips #WebDev"
   },
   {
