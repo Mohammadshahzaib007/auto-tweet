@@ -44,20 +44,20 @@ const postDaily = async () => {
   try {
     let tweet = tweets.shift(); // Get the next tweet from the list
     if (tweet) {
-      const { type, text } = tweet;
+      const { type } = tweet;
       let response;
       switch (type) {
         case "tweet":
-          response = await postTweet(text);
+          response = await postTweet(text.text);
           break;
         case "poll":
           response = await postPoll(tweet);
           break;
         case "thread":
-          response = await postThread(tweet);
+          response = await postThread(tweet.thread);
           break;
         default:
-          console.log(`Unknown tweet type: ${type}`);
+          response = `Unknown tweet type: ${type}`;
           break;
       }
       console.log(response);
