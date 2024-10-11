@@ -1,10 +1,6 @@
 [
   {
     "type": "tweet",
-    "text": "Testing in #ReactJS is made simple with tools like Jest and React Testing Library. Don’t skip testing – it saves hours of debugging later! 🐛 \n#ReactTesting #WebDev"
-  },
-  {
-    "type": "tweet",
     "text": "Want to speed up your site? 🚀 Minify your JavaScript and CSS files to reduce file sizes and boost load times! \n#WebPerformance #Frontend"
   },
   {
