@@ -31,17 +31,37 @@ const postPoll = async (tweet) => {
   }
 };
 
+const postThread = async (threads) => {
+  try {
+    await twitterClient.v2.tweetThread(threads);
+    return `Thread posted successfully!`;
+  } catch (error) {
+    throw error;
+  }
+};
+
 const postDaily = async () => {
   try {
     let tweet = tweets.shift(); // Get the next tweet from the list
     if (tweet) {
-      const response =
-        tweet.type === "tweet"
-          ? await postTweet(tweet.text)
-          : await postPoll(tweet); // Post the tweet
-
-      // Save the remaining tweets to the file after posting
+      const { type, text } = tweet;
+      let response;
+      switch (type) {
+        case "tweet":
+          response = await postTweet(text);
+          break;
+        case "poll":
+          response = await postPoll(tweet);
+          break;
+        case "thread":
+          response = await postThread(tweet);
+          break;
+        default:
+          console.log(`Unknown tweet type: ${type}`);
+          break;
+      }
       console.log(response);
+      // Save the remaining tweets to the file after posting
       fs.writeFileSync(tweetsPath, JSON.stringify(tweets, null, 2));
     } else {
       console.log("No more tweets to post.");
