@@ -60,17 +60,6 @@
     "text": "Optimizing your #NodeJS app? Use clustering to handle more requests by taking advantage of multiple cores! 🖥️ \n#BackendDevelopment #JavaScript"
   },
   {
-    "type": "thread",
-    "thread": [
-      "💡 Ever wondered how Flexbox works behind the scenes? Here’s a simple breakdown of the basics of CSS Flexbox:",
-      "1️⃣ Flex containers and flex items are the core of Flexbox. Start by wrapping items in a container with `display: flex;`.",
-      "2️⃣ Use `justify-content` to align items along the main axis. `align-items` helps align them on the cross-axis! 🌐",
-      "3️⃣ `flex-grow`, `flex-shrink`, and `flex-basis` control how much space the items take up. Play around to get the perfect layout!",
-      "4️⃣ Want items to wrap to the next line? Use `flex-wrap: wrap;` to create responsive, multi-line layouts. 📱",
-      "Flexbox is one of the most powerful layout systems in CSS! Combine it with media queries for ultimate responsiveness. 💪 #CSSTips #Flexbox"
-    ]
-  },
-  {
     "type": "tweet",
     "text": "CSS Grid > Flexbox for complex layouts. Flexbox is great for small, 1D layouts, but Grid allows you to create sophisticated, 2D designs effortlessly! 🎨 \n#CSS #WebDesign"
   },
@@ -131,17 +120,6 @@
     "text": "In #ReactJS, always handle API errors gracefully. Provide meaningful feedback to users, not just a blank screen. 🎯 \n#JavaScript #WebDevelopment"
   },
   {
-    "type": "thread",
-    "thread": [
-      "🧵 Let's break down how to improve the performance of a #ReactJS app. 💻",
-      "1. Use `React.memo` to avoid unnecessary re-renders. #ReactTips",
-      "2. Lazy load components with `React.lazy()` for better initial load time.",
-      "3. Use code-splitting to load only the necessary parts of your app.",
-      "4. Optimize images using formats like WebP, and reduce file sizes. #WebPerformance",
-      "5. Use `useCallback` and `useMemo` hooks to prevent unnecessary function re-creations."
-    ]
-  },
-  {
     "type": "tweet",
     "text": "Ever heard of #JAMstack? It’s the future of fast, secure websites using JavaScript, APIs, and markup. Perfect for modern web development! 💻 \n#Frontend #WebDev"
   },
@@ -183,7 +161,7 @@
   },
   {
     "type": "tweet",
-    "text": "a��� CSS `clamp()` allows you to set responsive values by defining a minimum, preferred, and maximum value. Super handy for fluid layouts! \n#CSSTips #WebDesign"
+    "text": "💡 CSS `clamp()` allows you to set responsive values by defining a minimum, preferred, and maximum value. Super handy for fluid layouts! \n#CSSTips #WebDesign"
   },
   {
     "type": "tweet",
@@ -200,17 +178,6 @@
   {
     "type": "tweet",
     "text": "Pagination or infinite scroll? Both have their pros and cons. Choose based on your app’s performance and UX needs! 📜 \n#WebDesign #FrontendDev"
-  },
-  {
-    "type": "thread",
-    "thread": [
-      "🧵 Thread: Understanding JavaScript Promises! 🔥",
-      "1. Promises represent the eventual completion (or failure) of an asynchronous operation.",
-      "2. A promise can be in one of three states: pending, fulfilled, or rejected. #JavaScript",
-      "3. Use `.then()` to handle fulfilled promises and `.catch()` for rejected ones.",
-      "4. Use `async/await` to write cleaner and more readable asynchronous code. #AsyncJS",
-      "5. Always handle errors with `.catch()` or try-catch blocks when using async/await."
-    ]
   },
   {
     "type": "tweet",
@@ -273,17 +240,6 @@
     "text": "Working with #NodeJS? Always use async/await for better readability and error handling in asynchronous operations. 🧑‍💻 \n#BackendDevelopment #JavaScript"
   },
   {
-    "type": "thread",
-    "thread": [
-      "🧵 5 Best Practices for CSS in 2024 🎨",
-      "1. Use Flexbox or Grid for layouts to make your CSS more manageable and modern. #CSSGrid",
-      "2. Leverage custom properties (CSS variables) for theming and consistent styling.",
-      "3. Avoid over-qualifying selectors (e.g., div.button) to improve performance.",
-      "4. Use relative units like rem and em for more responsive designs.",
-      "5. Always use `normalize.css` or `reset.css` to maintain cross-browser consistency."
-    ]
-  },
-  {
     "type": "tweet",
     "text": "CSS `display: grid` is perfect for creating responsive layouts without media queries. Simplify your layout game! 🎨 \n#FrontendDevelopment #CSS"
   },
@@ -342,17 +298,6 @@
   {
     "type": "tweet",
     "text": "Use `React.StrictMode` to identify potential problems in your application during development. Better safe than sorry! 🧑‍💻 \n#ReactTips #FrontendDev"
-  },
-  {
-    "type": "thread",
-    "thread": [
-      "🧵 Thread: How to write maintainable and scalable #JavaScript code 🧑‍💻",
-      "1. Keep functions small and focused on doing one thing. #CleanCode",
-      "2. Avoid global variables to prevent unexpected behavior.",
-      "3. Use meaningful names for variables and functions.",
-      "4. Break your code into modules for better organization.",
-      "5. Always add comments for complex logic, but don’t over-comment!"
-    ]
   },
   {
     "type": "tweet",
@@ -415,17 +360,6 @@
     "text": "Pro tip: Use EJS or Handlebars as your templating engine for #NodeJS when you need to serve dynamic content easily. 📝 \n#Backend #WebDevelopment"
   },
   {
-    "type": "thread",
-    "thread": [
-      "🧵 Top 5 tips to master #NodeJS 🛠️",
-      "1. Use asynchronous code where possible—Node.js is non-blocking! #AsyncJS",
-      "2. Make use of `EventEmitter` to handle events efficiently.",
-      "3. Use `cluster` module to scale Node.js apps across multiple CPU cores.",
-      "4. Always handle errors properly with `try/catch` or `.catch()` for promises.",
-      "5. Use environment variables to store sensitive information like API keys."
-    ]
-  },
-  {
     "type": "tweet",
     "text": "In #VueJS, you can use `v-model` to create two-way data binding between form inputs and your component data. Simple and effective! 💡 \n#Frontend #JavaScript"
   },
@@ -484,17 +418,6 @@
   {
     "type": "tweet",
     "text": "When working with #ReactJS, always ensure component unmounting is handled properly to avoid memory leaks. 🧠 \n#ReactTips #JavaScript"
-  },
-  {
-    "type": "thread",
-    "thread": [
-      "🧵 How to handle forms in #ReactJS effectively: ⚛️",
-      "1. Use controlled components to manage form data within the component's state.",
-      "2. Leverage `onChange` event handlers to update state on input changes.",
-      "3. Use `Formik` or `react-hook-form` to simplify form handling in larger apps.",
-      "4. Always validate user input with form validation libraries.",
-      "5. Make use of `HTML5` form attributes for basic validation (like `required`, `pattern`, etc)."
-    ]
   },
   {
     "type": "tweet",
@@ -557,17 +480,6 @@
     "text": "Take breaks and avoid burnout. 🧘‍♀️ It's important to rest and recharge your mind. #AvoidBurnout"
   },
   {
-    "type": "thread",
-    "thread": [
-      "🧵 5 Key Points to Remember about CSS Flexbox 🚀",
-      "1. Use `justify-content` to align items horizontally inside a flex container. #CSS",
-      "2. Use `align-items` to align items vertically within the container.",
-      "3. Use `flex-wrap` to handle overflow and break items into multiple rows.",
-      "4. Control how much space items take up with the `flex-grow` property.",
-      "5. Use `align-self` to override the alignment for individual flex items."
-    ]
-  },
-  {
     "type": "tweet",
     "text": "Find a mentor or join a study group. 🤝 Learning with others can be a great way to stay motivated and learn new things. #FindAMentor"
   },
@@ -626,17 +538,6 @@
   {
     "type": "tweet",
     "text": "📊 Did you know? Studies show that developers spend 70% of their time reading code and only 30% writing it. Write clean, readable code! \n#DeveloperLife #ProgrammingTips"
-  },
-  {
-    "type": "thread",
-    "thread": [
-      "🧵 How to master debugging in JavaScript 🔍",
-      "1. Always use `console.log()` effectively by printing values at various stages of the code.",
-      "2. Use breakpoints in browser dev tools to pause execution and inspect variables.",
-      "3. Understand the call stack and step through the code execution.",
-      "4. Look for syntax errors first—they're the easiest to fix! 😅",
-      "5. Use online debugging tools like JSFiddle and CodePen to test code in isolation."
-    ]
   },
   {
     "type": "tweet",
@@ -699,17 +600,6 @@
     "text": "Developer life tip: Get comfortable with being uncomfortable. Learning new languages or frameworks often feels overwhelming at first, but that’s how you grow! 🌱 \n#DevLife #LearningToCode"
   },
   {
-    "type": "thread",
-    "thread": [
-      "🧵 Thread: 5 tips to boost your productivity as a developer 🧑‍💻",
-      "1. Automate repetitive tasks using build tools like Webpack or Gulp. ⚙️",
-      "2. Keep your workspace clean and organized. 🧼",
-      "3. Use keyboard shortcuts to speed up your workflow.",
-      "4. Break tasks down into smaller, manageable steps. ✅",
-      "5. Take regular breaks to avoid burnout. ☕"
-    ]
-  },
-  {
     "type": "tweet",
     "text": "Avoid over-optimizing prematurely. Focus on functionality first, then optimize as you scale! ⚙️ \n#WebDev #ProgrammingTips"
   },
@@ -768,17 +658,6 @@
   {
     "type": "tweet",
     "text": "JavaScript tip: The `reduce()` method is not just for reducing arrays. Use it for things like counting occurrences in an array or flattening nested arrays! 🔄 \n#JavaScriptTips #Frontend"
-  },
-  {
-    "type": "thread",
-    "thread": [
-      "🧵 Understanding Closures in JavaScript 🔒",
-      "1. A closure is the combination of a function and the lexical environment within which it was declared.",
-      "2. Closures give you access to an outer function’s scope from an inner function.",
-      "3. They are useful for data encapsulation and function factories.",
-      "4. Avoid memory leaks by ensuring closures aren't unnecessarily holding onto references.",
-      "5. Closures are a key concept in functional programming! 💡"
-    ]
   },
   {
     "type": "tweet",
@@ -841,17 +720,6 @@
     "text": "Fun fact: HTML is not a programming language—it’s a markup language. It defines the structure, not the behavior of web pages! 📝 \n#HTML #WebDev"
   },
   {
-    "type": "thread",
-    "thread": [
-      "🧵 The ultimate guide to CSS Grid! 🚀",
-      "1. CSS Grid is a 2D layout system that lets you create flexible and responsive grid-based layouts. #CSSGrid",
-      "2. Use `grid-template-columns` to define the number and size of columns in your grid.",
-      "3. Use `grid-template-rows` to control the row structure of your layout.",
-      "4. Utilize `grid-gap` to add spacing between grid items.",
-      "5. `grid-area` lets you position items in a grid by specifying row and column start/end points."
-    ]
-  },
-  {
     "type": "tweet",
     "text": "Pro tip: Use `defer` or `async` when loading JavaScript files in the HTML `head`. It prevents blocking the rendering of your page! ⚡ \n#FrontendDev #JavaScript"
   },
@@ -910,17 +778,6 @@
   {
     "type": "tweet",
     "text": "💡 When working with APIs, always handle errors gracefully. Use `try...catch` in #JavaScript to avoid runtime surprises! 🛡️ \n#WebDev #APITips"
-  },
-  {
-    "type": "thread",
-    "thread": [
-      "🧵 5 Things Every Developer Should Know About Version Control 🧑‍💻",
-      "1. Commit often, but make sure each commit is meaningful. #GitTips",
-      "2. Write clear, descriptive commit messages for future reference.",
-      "3. Use branches to work on features or fixes without disrupting the main codebase.",
-      "4. Always pull before you push to avoid merge conflicts.",
-      "5. Learn how to rebase and merge—these are key to handling version history!"
-    ]
   },
   {
     "type": "tweet",
@@ -983,17 +840,6 @@
     "text": "💡 Want smooth scroll effects on your website? Try `scroll-behavior: smooth;` in your CSS! 🌀 \n#FrontendTips #WebDev"
   },
   {
-    "type": "thread",
-    "thread": [
-      "🧵 How to optimize your website for faster load times ⏱️",
-      "1. Minify CSS and JavaScript to reduce file sizes and improve performance.",
-      "2. Lazy load images and assets that aren’t immediately needed. #WebPerf",
-      "3. Use a content delivery network (CDN) to serve static files more quickly.",
-      "4. Compress images with modern formats like WebP to save bandwidth.",
-      "5. Reduce HTTP requests by combining files where possible."
-    ]
-  },
-  {
     "type": "tweet",
     "text": "How do you balance learning new technologies while working on projects? It’s easy to get caught in the learning trap! 📚💡 \n#DevLife #DeveloperThoughts"
   },
@@ -1054,17 +900,6 @@
     "text": "💡 Avoid large, unnecessary re-renders in #ReactJS by using `React.memo()` or `useCallback()` for better performance. 🚀 \n#ReactTips #WebDev"
   },
   {
-    "type": "thread",
-    "thread": [
-      "🧵 5 Essential VSCode Extensions for Developers 🔥",
-      "1. Prettier: Automatically format your code for consistent styling.",
-      "2. ESLint: Catch errors and enforce code standards while you code.",
-      "3. Live Server: Preview your website in real-time while you code.",
-      "4. GitLens: Supercharge your git integration within VSCode.",
-      "5. Path Intellisense: Auto-completes filenames in your project."
-    ]
-  },
-  {
     "type": "tweet",
     "text": "How do you keep up with new tech trends? For me, reading articles and engaging with the developer community is key! 📰💻 \n#DevLife #TechTrends"
   },
@@ -1091,356 +926,5 @@
   {
     "type": "tweet",
     "text": "How do you manage your workflow for larger teams? For me, it’s about having good communication tools and clear responsibilities. 💼📅 \n#DevLife #TeamManagement"
-  },
-  {
-    "type": "poll",
-    "text": "Which CSS framework do you prefer for rapid development? 🧑‍💻",
-    "options": ["TailwindCSS", "Bootstrap", "Bulma", "Foundation"]
-  },
-  {
-    "type": "tweet",
-    "text": "💡Use `alt` attributes for images. It’s essential for accessibility and SEO! Always provide descriptive text for visually impaired users. #WebAccessibility #SEO"
-  },
-  {
-    "type": "tweet",
-    "text": "🤔 A quick tip for cleaner #JavaScript code: Use destructuring when accessing object properties. It’s more concise and readable! #CodeTips #WebDev"
-  },
-  {
-    "type": "tweet",
-    "text": "🚀 Tip: #ReactJS has built-in hooks like `useEffect`, but custom hooks can simplify your logic even more! Create hooks that make sense for your specific app’s needs. #ReactTips"
-  },
-  {
-    "type": "tweet",
-    "text": "Need to convert an array of objects into a single object? Use `reduce()` in #JavaScript! 🧑‍💻 It’s a powerful method for transforming data. #CodeTips #WebDevelopment"
-  },
-  {
-    "type": "poll",
-    "text": "What’s your favorite state management tool for React apps? ⚛️",
-    "options": ["Redux", "Context API", "MobX", "Recoil"]
-  },
-  {
-    "type": "tweet",
-    "text": "Fact: #JavaScript is the most popular programming language worldwide, with over 65% of developers using it! 🧑‍💻 #WebDevelopment #CodeFacts"
-  },
-  {
-    "type": "tweet",
-    "text": "Pro Tip: Always use `srcset` for responsive images in HTML. It delivers different image sizes based on the screen size, improving performance! 📱 #HTMLTips #WebPerformance"
-  },
-  {
-    "type": "thread",
-    "thread": [
-      "🧵 5 Key Concepts to Understand in #VueJS 🛠️",
-      "1. The Vue instance: Every Vue app starts with a new Vue instance. #VueTips",
-      "2. Vue directives: `v-for`, `v-if`, and `v-model` make your templates dynamic.",
-      "3. Computed properties: Cache expensive operations for better performance.",
-      "4. Watchers: Respond to changes in your data models in real-time.",
-      "5. Vue Router: Handle dynamic navigation between different pages in a single-page application."
-    ]
-  },
-  {
-    "type": "tweet",
-    "text": "💡Did you know? With CSS `grid-template-areas`, you can name your grid sections, making layout management much easier and more readable! #CSSGrid #WebDesign"
-  },
-  {
-    "type": "tweet",
-    "text": "Use `localStorage` to store small amounts of data on the client side. It’s perfect for remembering user preferences like themes or languages! 🌐 #JavaScriptTips #FrontendDev"
-  },
-  {
-    "type": "poll",
-    "text": "Which do you prefer for styling your components in #ReactJS? 🎨",
-    "options": ["CSS Modules", "Styled Components", "TailwindCSS", "SASS"]
-  },
-  {
-    "type": "tweet",
-    "text": "💡 #NodeJS tip: Use environment variables for sensitive data (like API keys) to keep your app secure! Always store them outside your codebase. 🔑 #Security #BackendDev"
-  },
-  {
-    "type": "tweet",
-    "text": "Fun fact: The first computer virus, Creeper, was created in the 1970s. It wasn’t malicious but still a sign of things to come! 🖥️ #TechHistory #WebDevelopment"
-  },
-  {
-    "type": "tweet",
-    "text": "Tip: Use `console.time()` and `console.timeEnd()` to measure how long your #JavaScript code takes to execute. Great for optimizing performance! ⏱️ #WebDev"
-  },
-  {
-    "type": "tweet",
-    "text": "💡Fact: Progressive Web Apps (PWAs) combine the best of web and mobile apps. They work offline, send push notifications, and are installable! 📲 #PWA #WebDevelopment"
-  },
-  {
-    "type": "poll",
-    "text": "What’s your go-to backend framework? 🛠️",
-    "options": ["ExpressJS", "Koa", "NestJS", "Hapi"]
-  },
-  {
-    "type": "tweet",
-    "text": "💡Use `aria-hidden` in your HTML for content that shouldn’t be read by screen readers. It helps improve accessibility! ♿ #WebAccessibility #HTMLTips"
-  },
-  {
-    "type": "tweet",
-    "text": "Question: What’s the hardest part of learning JavaScript for you? 🤔 For me, it was understanding `this` in different contexts! #JavaScript #DevLife"
-  },
-  {
-    "type": "tweet",
-    "text": "In CSS Grid, `minmax()` allows you to set flexible sizes that stay within defined limits. Perfect for responsive designs! 📐 #CSSGrid #FrontendDev"
-  },
-  {
-    "type": "tweet",
-    "text": "🧠 Fact: `Node.js` is built on Chrome’s V8 JavaScript engine, making it incredibly fast for server-side applications! 🚀 #NodeJS #BackendDevelopment"
-  },
-  {
-    "type": "poll",
-    "text": "Which CSS layout system do you prefer? 💻",
-    "options": ["Flexbox", "CSS Grid", "Float-based layouts", "No preference"]
-  },
-  {
-    "type": "tweet",
-    "text": "💡Use the `Fragment` component in #ReactJS to group multiple children without adding extra nodes to the DOM. Cleaner code, faster render! ⚛️ #ReactTips"
-  },
-  {
-    "type": "tweet",
-    "text": "🔄 #JavaScript tip: When dealing with asynchronous code, prefer `async/await` over `.then()` for cleaner and more readable code! 🧑‍💻 #CodeTips"
-  },
-  {
-    "type": "thread",
-    "thread": [
-      "🧵 A breakdown of JavaScript's `this` keyword 🔍",
-      "1. `this` refers to the object that the function is a property of.",
-      "2. In regular functions, `this` is determined by how the function is called.",
-      "3. Arrow functions don't have their own `this`; they inherit from the parent scope.",
-      "4. Be mindful of `this` when using methods inside objects or classes.",
-      "5. Use `.bind()`, `.call()`, or `.apply()` to explicitly set the value of `this`."
-    ]
-  },
-  {
-    "type": "tweet",
-    "text": "Use `background-blend-mode` in CSS to create stunning visual effects with images and colors! 🎨 #CSSTips #FrontendDev"
-  },
-  {
-    "type": "tweet",
-    "text": "What’s your go-to method for improving web performance? For me, lazy loading images is a must! 🏎️ #WebPerformance #WebDevelopment"
-  },
-  {
-    "type": "poll",
-    "text": "When debugging, what do you prefer? 🧑‍💻",
-    "options": ["Console logs", "Debugger", "Breakpoints", "Alerts"]
-  },
-  {
-    "type": "tweet",
-    "text": "💡 Fact: The first-ever website went live in 1991! It was created by Tim Berners-Lee and is still accessible today at http://info.cern.ch 🌐 #WebHistory #TechFacts"
-  },
-  {
-    "type": "tweet",
-    "text": "For better #NodeJS performance, consider using `cluster` to utilize multiple CPU cores. Perfect for scaling apps! 🧑‍💻 #BackendTips"
-  },
-  {
-    "type": "tweet",
-    "text": "Pro Tip: Use CSS `transform` for smooth animations without triggering layout recalculations. 🚀 #CSSTips #WebDesign"
-  },
-  {
-    "type": "tweet",
-    "text": "Question: What’s your biggest challenge when managing state in #ReactJS? 🌐 I find scaling it across larger apps the toughest! #ReactTips"
-  },
-  {
-    "type": "poll",
-    "text": "What’s your preferred way to handle forms in #ReactJS? ✍️",
-    "options": [
-      "React Hook Form",
-      "Formik",
-      "Controlled inputs",
-      "Uncontrolled inputs"
-    ]
-  },
-  {
-    "type": "tweet",
-    "text": "💡Tip: Use `useMemo` in #ReactJS to optimize performance by memoizing expensive calculations. It helps prevent unnecessary re-renders! 🚀 #ReactTips"
-  },
-  {
-    "type": "tweet",
-    "text": "Fun fact: The first domain ever registered was `symbolics.com` in 1985. It’s still live today! 🌐 #TechHistory #WebFacts"
-  },
-  {
-    "type": "tweet",
-    "text": "For better code readability, always comment your functions! Your future self will thank you when debugging. 🧠 #CodingTips #WebDev"
-  },
-  {
-    "type": "tweet",
-    "text": "💡When working with APIs, always handle rate limiting to avoid overloading servers and getting blocked. Use retry logic with exponential backoff! ⏱️ #APIDev #NodeJS"
-  },
-  {
-    "type": "poll",
-    "text": "Which version control system do you use? 🔄",
-    "options": ["Git", "SVN", "Mercurial", "Other"]
-  },
-  {
-    "type": "tweet",
-    "text": "Use `Object.entries()` to convert objects into arrays in #JavaScript. Great for iterating over key-value pairs! 🧑‍💻 #JavaScriptTips #WebDev"
-  },
-  {
-    "type": "tweet",
-    "text": "🧠 Pro tip: In CSS, `position: sticky` keeps elements in place within their parent container. It’s great for headers and sidebars! 📌 #CSSTips #WebDesign"
-  },
-  {
-    "type": "thread",
-    "thread": [
-      "🧵 5 tips for improving accessibility in your web apps 🌐",
-      "1. Always provide `alt` text for images for screen readers. #A11Y",
-      "2. Use semantic HTML like `nav`, `header`, and `footer` to improve document structure.",
-      "3. Ensure that all clickable elements are keyboard navigable.",
-      "4. Use high-contrast color schemes to make text more readable for visually impaired users.",
-      "5. Test your app using screen readers to ensure a smooth user experience."
-    ]
-  },
-  {
-    "type": "tweet",
-    "text": "💡Fact: JavaScript was developed in just 10 days! It was initially called Mocha before becoming the JavaScript we know today. 🕰️ #CodeHistory #JavaScript"
-  },
-  {
-    "type": "tweet",
-    "text": "Pro Tip: Test your website on different screen sizes and browsers. What looks great on desktop might break on mobile! 🖥️📱 #WebDesign #WebDev"
-  },
-  {
-    "type": "poll",
-    "text": "What’s your go-to database for backend development? 🗄️",
-    "options": ["MySQL", "PostgreSQL", "MongoDB", "SQLite"]
-  },
-  {
-    "type": "tweet",
-    "text": "💡Tip: In #ReactJS, avoid using the index as a key in `.map()`. Instead, use a unique identifier for better performance! 🔄 #ReactTips #WebDev"
-  },
-  {
-    "type": "tweet",
-    "text": "🔄 Pro Tip: Use `forEach()` when you want to execute a function for each element in an array, but don’t need a return value. It’s cleaner and efficient! #JavaScriptTips"
-  },
-  {
-    "type": "tweet",
-    "text": "💻 For fast development, keep your environment clutter-free. Use tools like Prettier and ESLint for consistent code quality across the team. 🧑‍💻 #DevLife #ProductivityTips"
-  },
-  {
-    "type": "tweet",
-    "text": "Question: What’s your favorite #JavaScript framework for building web apps? I’ve been diving into #VueJS lately! 🚀 #WebDev"
-  },
-  {
-    "type": "poll",
-    "text": "What’s your favorite tool for debugging in #JavaScript? 🧑‍💻",
-    "options": [
-      "Chrome DevTools",
-      "VS Code Debugger",
-      "Firefox DevTools",
-      "Node.js Debugger"
-    ]
-  },
-  {
-    "type": "tweet",
-    "text": "🔄 Pro Tip: Use `useReducer` in #ReactJS when managing complex state logic. It's an alternative to `useState` and keeps your code more organized! #ReactTips"
-  },
-  {
-    "type": "tweet",
-    "text": "Question: How do you stay productive when coding? Do you use the Pomodoro technique, or do you prefer working in longer sessions? 🍅 #DevLife"
-  },
-  {
-    "type": "tweet",
-    "text": "💡 Fun fact: #JavaScript was originally called LiveScript but was renamed to capitalize on the popularity of Java at the time! 🕰️ #CodeHistory"
-  },
-  {
-    "type": "tweet",
-    "text": "Pro Tip: Always sanitize user input when handling forms to prevent XSS attacks. Security first! 🛡️ #WebSecurity #WebDev"
-  },
-  {
-    "type": "poll",
-    "text": "Which JavaScript array method do you use most often? 🔄",
-    "options": ["map()", "filter()", "forEach()", "reduce()"]
-  },
-  {
-    "type": "tweet",
-    "text": "💡 CSS Tip: Use `calc()` to combine relative and absolute units in CSS. It’s perfect for flexible layouts and responsive designs! 📐 #CSSTips #FrontendDev"
-  },
-  {
-    "type": "tweet",
-    "text": "Fun fact: The first website ever had only 153 words! It was a simple text page with links. How times have changed! 🕸️ #WebHistory"
-  },
-  {
-    "type": "thread",
-    "thread": [
-      "🧵 How to handle state management in #ReactJS effectively ⚛️",
-      "1. Use `useState` for managing simple local state.",
-      "2. For more complex state, use `useReducer` to handle actions and state transitions.",
-      "3. Context API is great for sharing state across many components without prop drilling.",
-      "4. For larger apps, consider using state management libraries like Redux or Zustand.",
-      "5. Always try to minimize the number of components that rely on shared state."
-    ]
-  },
-  {
-    "type": "tweet",
-    "text": "🚀 Pro Tip: When using #NodeJS, prefer using `fs.promises` for async file operations. It’s cleaner and easier to work with! #BackendTips"
-  },
-  {
-    "type": "tweet",
-    "text": "💡 Use `aria-label` for buttons without visible text. It improves accessibility for screen readers! ♿ #HTMLTips #WebAccessibility"
-  },
-  {
-    "type": "poll",
-    "text": "What’s your favorite programming language for backend development? 🛠️",
-    "options": ["Node.js", "Python", "Ruby", "PHP"]
-  },
-  {
-    "type": "tweet",
-    "text": "Tip: Use `useRef` in #ReactJS to directly access DOM elements or persist values across renders without causing a re-render. ⚛️ #ReactTips"
-  },
-  {
-    "type": "tweet",
-    "text": "🔄 #JavaScript fact: Did you know that the `null` and `undefined` values are different in JavaScript? It’s easy to confuse them! 🤯 #WebDev"
-  },
-  {
-    "type": "tweet",
-    "text": "Pro Tip: Avoid using inline CSS for better performance and cleaner code. Use classes and external stylesheets instead! 🎨 #CSSTips #FrontendDev"
-  },
-  {
-    "type": "tweet",
-    "text": "Fun fact: The `favicon` was first introduced by Microsoft in Internet Explorer 5, and now it’s a standard for every website! 🖥️ #TechHistory"
-  },
-  {
-    "type": "poll",
-    "text": "What’s your preferred CSS framework? 🎨",
-    "options": ["Tailwind CSS", "Bootstrap", "Bulma", "Foundation"]
-  },
-  {
-    "type": "tweet",
-    "text": "💡Pro Tip: When working with #ReactJS, use `React.memo` to prevent unnecessary re-renders and improve performance! 🏎️ #ReactTips"
-  },
-  {
-    "type": "tweet",
-    "text": "Fun fact: The first computer bug was an actual moth stuck in a computer! 🦋 That’s how the term 'debugging' was coined! 🖥️ #TechHistory"
-  },
-  {
-    "type": "tweet",
-    "text": "🔄 In #JavaScript, use `reduce()` to accumulate values in an array. It’s perfect for tasks like summing an array of numbers! #JavaScriptTips"
-  },
-  {
-    "type": "tweet",
-    "text": "Dev Tip: Consistent code formatting is key for teamwork! Use tools like Prettier or ESLint to keep everyone on the same page. 🔧 #DevTools #WebDev"
-  },
-  {
-    "type": "tweet",
-    "text": "💻 Question: Do you prefer light mode or dark mode when coding? 🌞🌚 I’m team dark mode all the way! #DevLife"
-  },
-  {
-    "type": "tweet",
-    "text": "Tip: Avoid inline JavaScript and CSS. Keeping your code separate improves readability and performance! 📄 #WebDevelopment #CodeTips"
-  },
-  {
-    "type": "poll",
-    "text": "Which #JavaScript concept do you find most challenging? 🤔",
-    "options": ["Closures", "Promises", "Async/Await", "Event Loop"]
-  },
-  {
-    "type": "thread",
-    "thread": [
-      "🧵 Debugging in Node.js 101 🛠️",
-      "1. Use `console.log()` wisely to print variable values at different stages of your code.",
-      "2. Use `node inspect` or `node --inspect` to start your app in debug mode.",
-      "3. Set breakpoints in your code using VSCode’s debugger.",
-      "4. Understand the call stack and how errors propagate.",
-      "5. Use logging libraries like `winston` or `morgan` for more structured and consistent logging."
-    ]
   }
 ]
