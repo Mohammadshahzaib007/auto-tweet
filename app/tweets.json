@@ -1,10 +1,6 @@
 [
   {
     "type": "tweet",
-    "text": "Want to speed up your site? 🚀 Minify your JavaScript and CSS files to reduce file sizes and boost load times! \n#WebPerformance #Frontend"
-  },
-  {
-    "type": "tweet",
     "text": "When using #VueJS, use Vuex for state management in large-scale applications. Keeps your state predictable and manageable! 💡 \n#Vue #JavaScript"
   },
   {
