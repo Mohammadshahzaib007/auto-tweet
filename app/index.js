@@ -48,7 +48,7 @@ const postDaily = async () => {
       let response;
       switch (type) {
         case "tweet":
-          response = await postTweet(text.text);
+          response = await postTweet(tweet.text);
           break;
         case "poll":
           response = await postPoll(tweet);
