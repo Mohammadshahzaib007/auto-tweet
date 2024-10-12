@@ -1,10 +1,5 @@
 [
   {
-    "type": "poll",
-    "text": "What's your favorite CSS framework for building responsive layouts? 💻",
-    "options": ["TailwindCSS", "Bootstrap", "Bulma", "Foundation"]
-  },
-  {
     "type": "tweet",
     "text": "🔗 Thinking of integrating APIs in your project? Start by exploring public APIs available online. They can be a great resource for learning and building cool features! #APIs #WebDevelopment"
   },
@@ -23,7 +18,12 @@
   {
     "type": "poll",
     "text": "Which do you prefer when managing state in React? ⚛️",
-    "options": ["Context API", "Redux", "MobX", "Recoil"]
+    "options": [
+      "Context API",
+      "Redux",
+      "MobX",
+      "Recoil"
+    ]
   },
   {
     "type": "tweet",
@@ -44,7 +44,12 @@
   {
     "type": "poll",
     "text": "How often do you use JavaScript arrow functions in your code? 📝",
-    "options": ["Always", "Sometimes", "Rarely", "Never"]
+    "options": [
+      "Always",
+      "Sometimes",
+      "Rarely",
+      "Never"
+    ]
   },
   {
     "type": "tweet",
@@ -92,7 +97,12 @@
   {
     "type": "poll",
     "text": "Which version control platform do you prefer? 🔄",
-    "options": ["GitHub", "GitLab", "Bitbucket", "Other"]
+    "options": [
+      "GitHub",
+      "GitLab",
+      "Bitbucket",
+      "Other"
+    ]
   },
   {
     "type": "tweet",
@@ -113,7 +123,12 @@
   {
     "type": "poll",
     "text": "When starting a new project, which JavaScript framework do you reach for first? 🛠️",
-    "options": ["React", "Vue", "Angular", "Svelte"]
+    "options": [
+      "React",
+      "Vue",
+      "Angular",
+      "Svelte"
+    ]
   },
   {
     "type": "tweet",
@@ -134,7 +149,12 @@
   {
     "type": "poll",
     "text": "How often do you use TypeScript in your projects? 🤔",
-    "options": ["Always", "Sometimes", "Never", "I plan to learn it"]
+    "options": [
+      "Always",
+      "Sometimes",
+      "Never",
+      "I plan to learn it"
+    ]
   },
   {
     "type": "thread",
@@ -162,7 +182,12 @@
   {
     "type": "poll",
     "text": "What’s your go-to method for handling API calls in React? ⚡",
-    "options": ["Axios", "Fetch API", "SWR", "React Query"]
+    "options": [
+      "Axios",
+      "Fetch API",
+      "SWR",
+      "React Query"
+    ]
   },
   {
     "type": "tweet",
@@ -183,7 +208,12 @@
   {
     "type": "poll",
     "text": "Which CSS unit do you use the most? 🧑‍💻",
-    "options": ["px", "em", "rem", "vh/vw"]
+    "options": [
+      "px",
+      "em",
+      "rem",
+      "vh/vw"
+    ]
   },
   {
     "type": "tweet",
@@ -204,7 +234,12 @@
   {
     "type": "poll",
     "text": "When it comes to testing, which tool do you prefer? 🧪",
-    "options": ["Jest", "Mocha", "Cypress", "None"]
+    "options": [
+      "Jest",
+      "Mocha",
+      "Cypress",
+      "None"
+    ]
   },
   {
     "type": "tweet",
@@ -258,7 +293,12 @@
   {
     "type": "poll",
     "text": "What’s your approach to CSS animations? 🌀",
-    "options": ["Keyframes", "CSS transitions", "JavaScript", "No animations"]
+    "options": [
+      "Keyframes",
+      "CSS transitions",
+      "JavaScript",
+      "No animations"
+    ]
   },
   {
     "type": "tweet",
@@ -312,7 +352,12 @@
   {
     "type": "poll",
     "text": "Which JavaScript array method do you use the most? 🔄",
-    "options": ["map()", "filter()", "forEach()", "reduce()"]
+    "options": [
+      "map()",
+      "filter()",
+      "forEach()",
+      "reduce()"
+    ]
   },
   {
     "type": "tweet",
@@ -333,7 +378,12 @@
   {
     "type": "poll",
     "text": "What's your preferred database when working on full-stack projects? 💾",
-    "options": ["MySQL", "MongoDB", "PostgreSQL", "SQLite"]
+    "options": [
+      "MySQL",
+      "MongoDB",
+      "PostgreSQL",
+      "SQLite"
+    ]
   },
   {
     "type": "tweet",
@@ -387,7 +437,12 @@
   {
     "type": "poll",
     "text": "How do you prefer styling your React components? 🎨",
-    "options": ["CSS Modules", "Styled-components", "Sass/SCSS", "TailwindCSS"]
+    "options": [
+      "CSS Modules",
+      "Styled-components",
+      "Sass/SCSS",
+      "TailwindCSS"
+    ]
   },
   {
     "type": "tweet",
@@ -408,7 +463,12 @@
   {
     "type": "poll",
     "text": "Which bundler do you prefer for your JavaScript projects? 📦",
-    "options": ["Webpack", "Parcel", "Vite", "Rollup"]
+    "options": [
+      "Webpack",
+      "Parcel",
+      "Vite",
+      "Rollup"
+    ]
   },
   {
     "type": "tweet",
@@ -429,7 +489,12 @@
   {
     "type": "poll",
     "text": "What’s your favorite code editor? 🖥️",
-    "options": ["VSCode", "Sublime Text", "Atom", "WebStorm"]
+    "options": [
+      "VSCode",
+      "Sublime Text",
+      "Atom",
+      "WebStorm"
+    ]
   },
   {
     "type": "tweet",
@@ -503,7 +568,12 @@
   {
     "type": "poll",
     "text": "Which JavaScript framework do you find more beginner-friendly? 💡",
-    "options": ["React", "Vue", "Angular", "Svelte"]
+    "options": [
+      "React",
+      "Vue",
+      "Angular",
+      "Svelte"
+    ]
   },
   {
     "type": "tweet",
@@ -557,7 +627,12 @@
   {
     "type": "poll",
     "text": "How many hours a week do you spend coding? 💻",
-    "options": ["Less than 10", "10-20", "20-40", "40+"]
+    "options": [
+      "Less than 10",
+      "10-20",
+      "20-40",
+      "40+"
+    ]
   },
   {
     "type": "tweet",
@@ -578,7 +653,12 @@
   {
     "type": "poll",
     "text": "What’s your favorite way to manage your project workflow? 🧑‍💻",
-    "options": ["Trello", "Jira", "Notion", "Asana"]
+    "options": [
+      "Trello",
+      "Jira",
+      "Notion",
+      "Asana"
+    ]
   },
   {
     "type": "tweet",
@@ -632,7 +712,12 @@
   {
     "type": "poll",
     "text": "When coding, what do you prefer: Tabs or spaces? 🔢",
-    "options": ["Tabs", "Spaces", "Doesn’t matter", "Depends on the project"]
+    "options": [
+      "Tabs",
+      "Spaces",
+      "Doesn’t matter",
+      "Depends on the project"
+    ]
   },
   {
     "type": "tweet",
@@ -653,7 +738,12 @@
   {
     "type": "poll",
     "text": "What’s your go-to framework for building REST APIs? 🔗",
-    "options": ["Express.js", "Fastify", "Koa", "NestJS"]
+    "options": [
+      "Express.js",
+      "Fastify",
+      "Koa",
+      "NestJS"
+    ]
   },
   {
     "type": "tweet",
@@ -707,7 +797,12 @@
   {
     "type": "poll",
     "text": "How do you organize your Git commits? 🔄",
-    "options": ["By feature", "By fix", "By task", "No strict rules"]
+    "options": [
+      "By feature",
+      "By fix",
+      "By task",
+      "No strict rules"
+    ]
   },
   {
     "type": "tweet",
@@ -728,7 +823,12 @@
   {
     "type": "poll",
     "text": "What’s your preferred JavaScript feature? 🚀",
-    "options": ["Promises", "Async/Await", "Modules", "Destructuring"]
+    "options": [
+      "Promises",
+      "Async/Await",
+      "Modules",
+      "Destructuring"
+    ]
   },
   {
     "type": "tweet",
@@ -749,7 +849,12 @@
   {
     "type": "poll",
     "text": "Which CSS layout technique do you prefer? 🎨",
-    "options": ["Flexbox", "Grid", "Float", "Positioning"]
+    "options": [
+      "Flexbox",
+      "Grid",
+      "Float",
+      "Positioning"
+    ]
   },
   {
     "type": "tweet",
@@ -803,7 +908,12 @@
   {
     "type": "poll",
     "text": "Which React feature do you find most useful? ⚛️",
-    "options": ["Hooks", "Context API", "React Router", "Redux"]
+    "options": [
+      "Hooks",
+      "Context API",
+      "React Router",
+      "Redux"
+    ]
   },
   {
     "type": "tweet",
@@ -877,7 +987,12 @@
   {
     "type": "poll",
     "text": "How do you stay updated with the latest web development trends? 🌐",
-    "options": ["Blogs", "Podcasts", "Social media", "Conferences"]
+    "options": [
+      "Blogs",
+      "Podcasts",
+      "Social media",
+      "Conferences"
+    ]
   },
   {
     "type": "tweet",
@@ -898,7 +1013,12 @@
   {
     "type": "poll",
     "text": "What’s your go-to tool for version control? 🔄",
-    "options": ["Git", "SVN", "Mercurial", "None"]
+    "options": [
+      "Git",
+      "SVN",
+      "Mercurial",
+      "None"
+    ]
   },
   {
     "type": "tweet",
@@ -919,7 +1039,12 @@
   {
     "type": "poll",
     "text": "When working with APIs, which format do you prefer? 🌐",
-    "options": ["REST", "GraphQL", "SOAP", "Other"]
+    "options": [
+      "REST",
+      "GraphQL",
+      "SOAP",
+      "Other"
+    ]
   },
   {
     "type": "thread",
@@ -947,7 +1072,12 @@
   {
     "type": "poll",
     "text": "What’s your preferred JavaScript testing framework? 🧪",
-    "options": ["Jest", "Mocha", "Jasmine", "Cypress"]
+    "options": [
+      "Jest",
+      "Mocha",
+      "Jasmine",
+      "Cypress"
+    ]
   },
   {
     "type": "tweet",
@@ -994,7 +1124,12 @@
   {
     "type": "poll",
     "text": "Which state management library do you prefer? 📊",
-    "options": ["Redux", "MobX", "Recoil", "Context API"]
+    "options": [
+      "Redux",
+      "MobX",
+      "Recoil",
+      "Context API"
+    ]
   },
   {
     "type": "tweet",
@@ -1048,7 +1183,12 @@
   {
     "type": "poll",
     "text": "What's your go-to method for handling errors in JavaScript? ⚠️",
-    "options": ["Try/Catch", "Error boundaries", "Logging", "Ignoring"]
+    "options": [
+      "Try/Catch",
+      "Error boundaries",
+      "Logging",
+      "Ignoring"
+    ]
   },
   {
     "type": "tweet",
@@ -1069,7 +1209,12 @@
   {
     "type": "poll",
     "text": "Which CSS framework do you find most helpful? 💻",
-    "options": ["Bootstrap", "Tailwind CSS", "Foundation", "Bulma"]
+    "options": [
+      "Bootstrap",
+      "Tailwind CSS",
+      "Foundation",
+      "Bulma"
+    ]
   },
   {
     "type": "tweet",
@@ -1097,7 +1242,12 @@
   {
     "type": "poll",
     "text": "Do you prefer functional programming or object-oriented programming? 🤔",
-    "options": ["Functional", "Object-oriented", "Both", "Neither"]
+    "options": [
+      "Functional",
+      "Object-oriented",
+      "Both",
+      "Neither"
+    ]
   },
   {
     "type": "tweet",
@@ -1118,7 +1268,12 @@
   {
     "type": "poll",
     "text": "How often do you write documentation for your code? 📝",
-    "options": ["Always", "Sometimes", "Rarely", "Never"]
+    "options": [
+      "Always",
+      "Sometimes",
+      "Rarely",
+      "Never"
+    ]
   },
   {
     "type": "tweet",
@@ -1139,7 +1294,12 @@
   {
     "type": "poll",
     "text": "Which method do you prefer for API authentication? 🔑",
-    "options": ["OAuth", "JWT", "Basic Auth", "None"]
+    "options": [
+      "OAuth",
+      "JWT",
+      "Basic Auth",
+      "None"
+    ]
   },
   {
     "type": "tweet",
@@ -1167,7 +1327,12 @@
   {
     "type": "poll",
     "text": "What’s your favorite way to deploy your web applications? 🚀",
-    "options": ["Vercel", "Netlify", "Heroku", "Custom server"]
+    "options": [
+      "Vercel",
+      "Netlify",
+      "Heroku",
+      "Custom server"
+    ]
   },
   {
     "type": "tweet",
@@ -1188,7 +1353,12 @@
   {
     "type": "poll",
     "text": "How do you optimize your website’s performance? ⚡",
-    "options": ["Lazy loading", "Code splitting", "Minification", "Caching"]
+    "options": [
+      "Lazy loading",
+      "Code splitting",
+      "Minification",
+      "Caching"
+    ]
   },
   {
     "type": "tweet",
@@ -1209,7 +1379,12 @@
   {
     "type": "poll",
     "text": "What do you consider the most important part of a website? 🏆",
-    "options": ["Design", "Functionality", "Performance", "Content"]
+    "options": [
+      "Design",
+      "Functionality",
+      "Performance",
+      "Content"
+    ]
   },
   {
     "type": "tweet",
@@ -1257,7 +1432,12 @@
   {
     "type": "poll",
     "text": "Do you use any JavaScript build tools? 🛠️",
-    "options": ["Webpack", "Parcel", "Gulp", "None"]
+    "options": [
+      "Webpack",
+      "Parcel",
+      "Gulp",
+      "None"
+    ]
   },
   {
     "type": "tweet",
@@ -1337,7 +1517,12 @@
   {
     "type": "poll",
     "text": "What’s your favorite JavaScript array method? 📊",
-    "options": ["map()", "filter()", "reduce()", "forEach()"]
+    "options": [
+      "map()",
+      "filter()",
+      "reduce()",
+      "forEach()"
+    ]
   },
   {
     "type": "tweet",
@@ -1384,7 +1569,12 @@
   {
     "type": "poll",
     "text": "Do you use any design tools for your projects? 🎨",
-    "options": ["Figma", "Adobe XD", "Sketch", "None"]
+    "options": [
+      "Figma",
+      "Adobe XD",
+      "Sketch",
+      "None"
+    ]
   },
   {
     "type": "tweet",
@@ -1438,7 +1628,12 @@
   {
     "type": "poll",
     "text": "Do you follow a specific coding style guide? 📜",
-    "options": ["Yes", "No", "Partially", "I make my own rules"]
+    "options": [
+      "Yes",
+      "No",
+      "Partially",
+      "I make my own rules"
+    ]
   },
   {
     "type": "tweet",
