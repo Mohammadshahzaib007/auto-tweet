@@ -1,10 +1,6 @@
 [
   {
     "type": "tweet",
-    "text": "Handling forms in #ReactJS can be tricky. Libraries like Formik or React Hook Form make it easier and reduce boilerplate code! 🧑‍💻 \n#ReactTips #WebDev"
-  },
-  {
-    "type": "tweet",
     "text": "Always remember to debounce or throttle expensive operations in #JavaScript to improve performance and avoid blocking the main thread. 🚀 \n#WebPerformance #FrontendDev"
   },
   {
