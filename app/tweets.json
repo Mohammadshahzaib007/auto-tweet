@@ -1,10 +1,6 @@
 [
   {
     "type": "tweet",
-    "text": "🔗 Thinking of integrating APIs in your project? Start by exploring public APIs available online. They can be a great resource for learning and building cool features! #APIs #WebDevelopment"
-  },
-  {
-    "type": "tweet",
     "text": "Handling forms in #ReactJS can be tricky. Libraries like Formik or React Hook Form make it easier and reduce boilerplate code! 🧑‍💻 \n#ReactTips #WebDev"
   },
   {
