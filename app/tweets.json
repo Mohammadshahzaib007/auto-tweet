@@ -1,15 +1,5 @@
 [
   {
-    "type": "poll",
-    "text": "Which do you prefer when managing state in React? ⚛️",
-    "options": [
-      "Context API",
-      "Redux",
-      "MobX",
-      "Recoil"
-    ]
-  },
-  {
     "type": "tweet",
     "text": "Don’t just rely on #CSS for responsiveness. Use relative units like `em` and `rem` for flexible designs that adapt to all screen sizes. 📱 \n#FrontendDevelopment #WebDesign"
   },
