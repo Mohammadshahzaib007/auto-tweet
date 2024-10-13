@@ -1,9 +1,5 @@
 [
   {
-    "type": "tweet",
-    "text": "In #NodeJS, prefer asynchronous methods over synchronous ones to ensure your server remains non-blocking. Scalability is the goal! 🖥️ \n#Backend #WebDev"
-  },
-  {
     "type": "poll",
     "text": "Which do you prefer when managing state in React? ⚛️",
     "options": [
