@@ -1,10 +1,6 @@
 [
   {
     "type": "tweet",
-    "text": "Always remember to debounce or throttle expensive operations in #JavaScript to improve performance and avoid blocking the main thread. 🚀 \n#WebPerformance #FrontendDev"
-  },
-  {
-    "type": "tweet",
     "text": "In #NodeJS, prefer asynchronous methods over synchronous ones to ensure your server remains non-blocking. Scalability is the goal! 🖥️ \n#Backend #WebDev"
   },
   {
