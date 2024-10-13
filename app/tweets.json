@@ -1,10 +1,6 @@
 [
   {
     "type": "tweet",
-    "text": "Don’t just rely on #CSS for responsiveness. Use relative units like `em` and `rem` for flexible designs that adapt to all screen sizes. 📱 \n#FrontendDevelopment #WebDesign"
-  },
-  {
-    "type": "tweet",
     "text": "🚀 Use arrow functions in #JavaScript to maintain the context of 'this' in nested functions. Makes your code cleaner and easier to read! \n#WebDevelopment #JavaScriptTips"
   },
   {
