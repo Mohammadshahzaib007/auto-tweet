@@ -1,10 +1,6 @@
 [
   {
     "type": "tweet",
-    "text": "🚀 Use arrow functions in #JavaScript to maintain the context of 'this' in nested functions. Makes your code cleaner and easier to read! \n#WebDevelopment #JavaScriptTips"
-  },
-  {
-    "type": "tweet",
     "text": "💡 Use #useMemo and #useCallback hooks in #ReactJS to optimize performance by memoizing heavy computations and functions. Keep it efficient! 🔄 \n#ReactHooks #WebDev"
   },
   {
