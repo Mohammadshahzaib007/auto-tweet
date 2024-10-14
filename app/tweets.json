@@ -1,9 +1,5 @@
 [
   {
-    "type": "tweet",
-    "text": "When working with #NodeJS, always handle errors using try/catch or promises. Proper error handling is crucial for a smooth user experience! 🛠️ \n#BackendDevelopment #JavaScript"
-  },
-  {
     "type": "poll",
     "text": "How often do you use JavaScript arrow functions in your code? 📝",
     "options": [
