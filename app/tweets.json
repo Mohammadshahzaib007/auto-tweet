@@ -1,10 +1,6 @@
 [
   {
     "type": "tweet",
-    "text": "Always use semantic HTML tags like `<header>`, `<footer>`, and `<article>`. They improve accessibility and search engine optimization! 🏆 \n#HTML5 #SEO"
-  },
-  {
-    "type": "tweet",
     "text": "Learn by building! Whether it's a small side project or contributing to open source, hands-on experience is the best way to master #JavaScript! 💻 \n#WebDev #Programming"
   },
   {
