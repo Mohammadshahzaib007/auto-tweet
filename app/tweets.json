@@ -1,10 +1,6 @@
 [
   {
     "type": "tweet",
-    "text": "💡 Use #useMemo and #useCallback hooks in #ReactJS to optimize performance by memoizing heavy computations and functions. Keep it efficient! 🔄 \n#ReactHooks #WebDev"
-  },
-  {
-    "type": "tweet",
     "text": "When working with #NodeJS, always handle errors using try/catch or promises. Proper error handling is crucial for a smooth user experience! 🛠️ \n#BackendDevelopment #JavaScript"
   },
   {
