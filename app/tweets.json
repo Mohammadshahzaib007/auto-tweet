@@ -1,15 +1,5 @@
 [
   {
-    "type": "poll",
-    "text": "How often do you use JavaScript arrow functions in your code? 📝",
-    "options": [
-      "Always",
-      "Sometimes",
-      "Rarely",
-      "Never"
-    ]
-  },
-  {
     "type": "tweet",
     "text": "In #ReactJS, lifting the state up is crucial when two sibling components need to communicate. Keeps your app architecture clean and organized! 🛠️ \n#ReactTips #JavaScript"
   },
