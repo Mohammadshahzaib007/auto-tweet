@@ -1,10 +1,6 @@
 [
   {
     "type": "tweet",
-    "text": "In #ReactJS, lifting the state up is crucial when two sibling components need to communicate. Keeps your app architecture clean and organized! 🛠️ \n#ReactTips #JavaScript"
-  },
-  {
-    "type": "tweet",
     "text": "Always use semantic HTML tags like `<header>`, `<footer>`, and `<article>`. They improve accessibility and search engine optimization! 🏆 \n#HTML5 #SEO"
   },
   {
