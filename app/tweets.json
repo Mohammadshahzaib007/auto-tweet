@@ -1,10 +1,6 @@
 [
   {
     "type": "tweet",
-    "text": "Avoid `setState` in loops in #ReactJS! It causes unnecessary re-renders. Batch your state updates or use a single state to store all data. 🌀 \n#React #FrontendDev"
-  },
-  {
-    "type": "tweet",
     "text": "🌟 Keep your #NodeJS app secure by always validating user inputs on both client and server side. Security can't be an afterthought! 🛡️ \n#Backend #WebSecurity"
   },
   {
