@@ -1,16 +1,5 @@
 [
   {
-    "type": "thread",
-    "thread": [
-      "💡 Ever wondered how Flexbox works behind the scenes? Here’s a simple breakdown of the basics of CSS Flexbox:",
-      "1️⃣ Flex containers and flex items are the core of Flexbox. Start by wrapping items in a container with `display: flex;`.",
-      "2️⃣ Use `justify-content` to align items along the main axis. `align-items` helps align them on the cross-axis! 🌐",
-      "3️⃣ `flex-grow`, `flex-shrink`, and `flex-basis` control how much space the items take up. Play around to get the perfect layout!",
-      "4️⃣ Want items to wrap to the next line? Use `flex-wrap: wrap;` to create responsive, multi-line layouts. 📱",
-      "Flexbox is one of the most powerful layout systems in CSS! Combine it with media queries for ultimate responsiveness. 💪 #CSSTips #Flexbox"
-    ]
-  },
-  {
     "type": "tweet",
     "text": "CSS Grid > Flexbox for complex layouts. Flexbox is great for small, 1D layouts, but Grid allows you to create sophisticated, 2D designs effortlessly! 🎨 \n#CSS #WebDesign"
   },
