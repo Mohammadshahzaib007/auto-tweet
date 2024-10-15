@@ -1,10 +1,6 @@
 [
   {
     "type": "tweet",
-    "text": "CSS Grid > Flexbox for complex layouts. Flexbox is great for small, 1D layouts, but Grid allows you to create sophisticated, 2D designs effortlessly! 🎨 \n#CSS #WebDesign"
-  },
-  {
-    "type": "tweet",
     "text": "Avoid `setState` in loops in #ReactJS! It causes unnecessary re-renders. Batch your state updates or use a single state to store all data. 🌀 \n#React #FrontendDev"
   },
   {
