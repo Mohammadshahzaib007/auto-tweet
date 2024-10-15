@@ -1,9 +1,5 @@
 [
   {
-    "type": "tweet",
-    "text": "Optimizing your #NodeJS app? Use clustering to handle more requests by taking advantage of multiple cores! 🖥️ \n#BackendDevelopment #JavaScript"
-  },
-  {
     "type": "thread",
     "thread": [
       "💡 Ever wondered how Flexbox works behind the scenes? Here’s a simple breakdown of the basics of CSS Flexbox:",
