@@ -1,10 +1,6 @@
 [
   {
     "type": "tweet",
-    "text": "Learn by building! Whether it's a small side project or contributing to open source, hands-on experience is the best way to master #JavaScript! 💻 \n#WebDev #Programming"
-  },
-  {
-    "type": "tweet",
     "text": "Optimizing your #NodeJS app? Use clustering to handle more requests by taking advantage of multiple cores! 🖥️ \n#BackendDevelopment #JavaScript"
   },
   {
