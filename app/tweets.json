@@ -1,15 +1,5 @@
 [
   {
-    "type": "poll",
-    "text": "Which version control platform do you prefer? 🔄",
-    "options": [
-      "GitHub",
-      "GitLab",
-      "Bitbucket",
-      "Other"
-    ]
-  },
-  {
     "type": "tweet",
     "text": "Big tip: Break down your #JavaScript functions into smaller, single-responsibility ones. Makes testing and debugging way easier! 🔍 \n#WebDev #CodeQuality"
   },
