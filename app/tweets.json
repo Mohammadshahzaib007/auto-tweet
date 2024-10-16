@@ -1,9 +1,5 @@
 [
   {
-    "type": "tweet",
-    "text": "Working with #VueJS? Watchers are powerful for observing changes in data, but computed properties are more efficient and reduce code duplication! 💡 \n#JavaScript #WebDev"
-  },
-  {
     "type": "poll",
     "text": "Which version control platform do you prefer? 🔄",
     "options": [
