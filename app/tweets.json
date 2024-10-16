@@ -1,10 +1,6 @@
 [
   {
     "type": "tweet",
-    "text": "Big tip: Break down your #JavaScript functions into smaller, single-responsibility ones. Makes testing and debugging way easier! 🔍 \n#WebDev #CodeQuality"
-  },
-  {
-    "type": "tweet",
     "text": "In #ReactJS, the `useEffect` hook is perfect for side effects like data fetching. Just be careful with dependencies to avoid infinite loops! 🔄 \n#ReactTips #WebDevelopment"
   },
   {
