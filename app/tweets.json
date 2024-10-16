@@ -1,10 +1,6 @@
 [
   {
     "type": "tweet",
-    "text": "In #ReactJS, the `useEffect` hook is perfect for side effects like data fetching. Just be careful with dependencies to avoid infinite loops! 🔄 \n#ReactTips #WebDevelopment"
-  },
-  {
-    "type": "tweet",
     "text": "🚀 Always lazy load your images and videos for better performance! It improves the initial page load and provides a smoother user experience. \n#WebPerformance #FrontendDev"
   },
   {
