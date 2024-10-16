@@ -1,10 +1,6 @@
 [
   {
     "type": "tweet",
-    "text": "🌟 Keep your #NodeJS app secure by always validating user inputs on both client and server side. Security can't be an afterthought! 🛡️ \n#Backend #WebSecurity"
-  },
-  {
-    "type": "tweet",
     "text": "Working with #VueJS? Watchers are powerful for observing changes in data, but computed properties are more efficient and reduce code duplication! 💡 \n#JavaScript #WebDev"
   },
   {
