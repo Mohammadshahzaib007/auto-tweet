@@ -1,10 +1,6 @@
 [
   {
     "type": "tweet",
-    "text": "CSS variables make it easy to manage consistent colors, fonts, and other styles across your project. Plus, they’re easier to override! 🎨 \n#CSSTips #Frontend"
-  },
-  {
-    "type": "tweet",
     "text": "🛠️ When debugging in #JavaScript, use `console.table()` to display array data as a table. It’s cleaner and more readable than a basic log! \n#WebDev #Programming"
   },
   {
