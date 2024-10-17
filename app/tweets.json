@@ -1,9 +1,5 @@
 [
   {
-    "type": "tweet",
-    "text": "Prefer RESTful APIs? Great! But consider GraphQL if your app has complex data relationships or needs optimized data fetching. ⚙️ \n#APIDevelopment #GraphQL"
-  },
-  {
     "type": "poll",
     "text": "When starting a new project, which JavaScript framework do you reach for first? 🛠️",
     "options": [
