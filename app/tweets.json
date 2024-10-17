@@ -1,10 +1,6 @@
 [
   {
     "type": "tweet",
-    "text": "🛠️ When debugging in #JavaScript, use `console.table()` to display array data as a table. It’s cleaner and more readable than a basic log! \n#WebDev #Programming"
-  },
-  {
-    "type": "tweet",
     "text": "Keep your forms accessible! Use labels, proper tab indexing, and ARIA attributes to improve UX for all users. ♿ \n#WebAccessibility #FrontendDevelopment"
   },
   {
