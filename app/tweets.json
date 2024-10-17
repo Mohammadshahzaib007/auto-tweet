@@ -1,10 +1,6 @@
 [
   {
     "type": "tweet",
-    "text": "🚀 Always lazy load your images and videos for better performance! It improves the initial page load and provides a smoother user experience. \n#WebPerformance #FrontendDev"
-  },
-  {
-    "type": "tweet",
     "text": "Prefer RESTful APIs? Great! But consider GraphQL if your app has complex data relationships or needs optimized data fetching. ⚙️ \n#APIDevelopment #GraphQL"
   },
   {
