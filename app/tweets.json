@@ -1,15 +1,5 @@
 [
   {
-    "type": "poll",
-    "text": "When starting a new project, which JavaScript framework do you reach for first? 🛠️",
-    "options": [
-      "React",
-      "Vue",
-      "Angular",
-      "Svelte"
-    ]
-  },
-  {
     "type": "tweet",
     "text": "CSS variables make it easy to manage consistent colors, fonts, and other styles across your project. Plus, they’re easier to override! 🎨 \n#CSSTips #Frontend"
   },
