@@ -1,16 +1,5 @@
 [
   {
-    "type": "thread",
-    "thread": [
-      "🧵 Let's break down how to improve the performance of a #ReactJS app. 💻",
-      "1. Use `React.memo` to avoid unnecessary re-renders. #ReactTips",
-      "2. Lazy load components with `React.lazy()` for better initial load time.",
-      "3. Use code-splitting to load only the necessary parts of your app.",
-      "4. Optimize images using formats like WebP, and reduce file sizes. #WebPerformance",
-      "5. Use `useCallback` and `useMemo` hooks to prevent unnecessary function re-creations."
-    ]
-  },
-  {
     "type": "tweet",
     "text": "Ever heard of #JAMstack? It’s the future of fast, secure websites using JavaScript, APIs, and markup. Perfect for modern web development! 💻 \n#Frontend #WebDev"
   },
