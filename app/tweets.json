@@ -1,9 +1,5 @@
 [
   {
-    "type": "tweet",
-    "text": "Avoid hardcoding colors or spacing in #CSS. Use a design system or CSS variables to keep your styles consistent across your app. 🎨 \n#Frontend #WebDesign"
-  },
-  {
     "type": "poll",
     "text": "How often do you use TypeScript in your projects? 🤔",
     "options": [
