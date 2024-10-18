@@ -1,15 +1,5 @@
 [
   {
-    "type": "poll",
-    "text": "How often do you use TypeScript in your projects? 🤔",
-    "options": [
-      "Always",
-      "Sometimes",
-      "Never",
-      "I plan to learn it"
-    ]
-  },
-  {
     "type": "thread",
     "thread": [
       "🧵 Let's break down how to improve the performance of a #ReactJS app. 💻",
