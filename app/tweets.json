@@ -1,10 +1,6 @@
 [
   {
     "type": "tweet",
-    "text": "Keep your forms accessible! Use labels, proper tab indexing, and ARIA attributes to improve UX for all users. ♿ \n#WebAccessibility #FrontendDevelopment"
-  },
-  {
-    "type": "tweet",
     "text": "Avoid hardcoding colors or spacing in #CSS. Use a design system or CSS variables to keep your styles consistent across your app. 🎨 \n#Frontend #WebDesign"
   },
   {
