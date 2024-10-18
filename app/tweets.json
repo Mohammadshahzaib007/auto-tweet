@@ -1,10 +1,6 @@
 [
   {
     "type": "tweet",
-    "text": "Ever heard of #JAMstack? It’s the future of fast, secure websites using JavaScript, APIs, and markup. Perfect for modern web development! 💻 \n#Frontend #WebDev"
-  },
-  {
-    "type": "tweet",
     "text": "When dealing with forms in #ReactJS, libraries like React Hook Form can simplify validation and reduce boilerplate code. 🚀 \n#ReactTips #WebDev"
   },
   {
