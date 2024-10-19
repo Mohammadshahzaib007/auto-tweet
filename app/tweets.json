@@ -1,10 +1,6 @@
 [
   {
     "type": "tweet",
-    "text": "When using #NodeJS, always sanitize user inputs to prevent SQL injection or NoSQL injection attacks. It’s crucial for backend security! 🔒 \n#WebSecurity #Backend"
-  },
-  {
-    "type": "tweet",
     "text": "CSS Grid is fantastic for creating complex, responsive layouts. Want to design a dashboard? Start with Grid and see the magic unfold! 🎨 \n#CSS #WebDesign"
   },
   {
