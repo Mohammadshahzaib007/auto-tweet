@@ -1,10 +1,6 @@
 [
   {
     "type": "tweet",
-    "text": "Performance matters! Always compress your CSS and JavaScript files for faster page load times. Every millisecond counts! 🏎️💨 \n#FrontendPerformance #WebDevelopment"
-  },
-  {
-    "type": "tweet",
     "text": "When using #NodeJS, always sanitize user inputs to prevent SQL injection or NoSQL injection attacks. It’s crucial for backend security! 🔒 \n#WebSecurity #Backend"
   },
   {
