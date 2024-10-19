@@ -1,9 +1,5 @@
 [
   {
-    "type": "tweet",
-    "text": "💡 Tip: Use `const` by default in #JavaScript. Only use `let` if the variable’s value will change. It avoids bugs and ensures immutability! \n#WebDevelopment #JavaScriptTips"
-  },
-  {
     "type": "poll",
     "text": "What’s your go-to method for handling API calls in React? ⚡",
     "options": [
