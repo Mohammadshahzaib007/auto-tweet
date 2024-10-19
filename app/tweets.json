@@ -1,10 +1,6 @@
 [
   {
     "type": "tweet",
-    "text": "When dealing with forms in #ReactJS, libraries like React Hook Form can simplify validation and reduce boilerplate code. 🚀 \n#ReactTips #WebDev"
-  },
-  {
-    "type": "tweet",
     "text": "💡 Tip: Use `const` by default in #JavaScript. Only use `let` if the variable’s value will change. It avoids bugs and ensures immutability! \n#WebDevelopment #JavaScriptTips"
   },
   {
