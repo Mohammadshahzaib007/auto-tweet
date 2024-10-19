@@ -1,15 +1,5 @@
 [
   {
-    "type": "poll",
-    "text": "What’s your go-to method for handling API calls in React? ⚡",
-    "options": [
-      "Axios",
-      "Fetch API",
-      "SWR",
-      "React Query"
-    ]
-  },
-  {
     "type": "tweet",
     "text": "Performance matters! Always compress your CSS and JavaScript files for faster page load times. Every millisecond counts! 🏎️💨 \n#FrontendPerformance #WebDevelopment"
   },
