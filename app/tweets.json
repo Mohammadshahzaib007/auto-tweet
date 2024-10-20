@@ -1,10 +1,6 @@
 [
   {
     "type": "tweet",
-    "text": "In #NodeJS, use environment variables to store sensitive data like API keys. Never hardcode them into your application! 🔑 \n#Backend #Security"
-  },
-  {
-    "type": "tweet",
     "text": "a��� CSS `clamp()` allows you to set responsive values by defining a minimum, preferred, and maximum value. Super handy for fluid layouts! \n#CSSTips #WebDesign"
   },
   {
