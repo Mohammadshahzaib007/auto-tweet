@@ -1,15 +1,5 @@
 [
   {
-    "type": "poll",
-    "text": "Which CSS unit do you use the most? 🧑‍💻",
-    "options": [
-      "px",
-      "em",
-      "rem",
-      "vh/vw"
-    ]
-  },
-  {
     "type": "tweet",
     "text": "In #NodeJS, use environment variables to store sensitive data like API keys. Never hardcode them into your application! 🔑 \n#Backend #Security"
   },
