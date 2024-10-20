@@ -1,10 +1,6 @@
 [
   {
     "type": "tweet",
-    "text": "a��� CSS `clamp()` allows you to set responsive values by defining a minimum, preferred, and maximum value. Super handy for fluid layouts! \n#CSSTips #WebDesign"
-  },
-  {
-    "type": "tweet",
     "text": "Prefer #ReactJS but need SSR? #NextJS is your go-to framework for building server-rendered, SEO-friendly apps. 🚀 \n#FrontendDev #JavaScript"
   },
   {
