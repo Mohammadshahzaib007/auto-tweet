@@ -1,10 +1,6 @@
 [
   {
     "type": "tweet",
-    "text": "CSS Grid is fantastic for creating complex, responsive layouts. Want to design a dashboard? Start with Grid and see the magic unfold! 🎨 \n#CSS #WebDesign"
-  },
-  {
-    "type": "tweet",
     "text": "In #VueJS, `v-if` is great for conditional rendering but use `v-show` when toggling visibility frequently. It’s more efficient! 💡 \n#JavaScript #FrontendDev"
   },
   {
