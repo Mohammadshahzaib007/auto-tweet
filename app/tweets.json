@@ -1,15 +1,5 @@
 [
   {
-    "type": "poll",
-    "text": "When it comes to testing, which tool do you prefer? 🧪",
-    "options": [
-      "Jest",
-      "Mocha",
-      "Cypress",
-      "None"
-    ]
-  },
-  {
     "type": "tweet",
     "text": "Pagination or infinite scroll? Both have their pros and cons. Choose based on your app’s performance and UX needs! 📜 \n#WebDesign #FrontendDev"
   },
