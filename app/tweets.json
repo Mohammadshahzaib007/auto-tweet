@@ -1,16 +1,5 @@
 [
   {
-    "type": "thread",
-    "thread": [
-      "🧵 Thread: Understanding JavaScript Promises! 🔥",
-      "1. Promises represent the eventual completion (or failure) of an asynchronous operation.",
-      "2. A promise can be in one of three states: pending, fulfilled, or rejected. #JavaScript",
-      "3. Use `.then()` to handle fulfilled promises and `.catch()` for rejected ones.",
-      "4. Use `async/await` to write cleaner and more readable asynchronous code. #AsyncJS",
-      "5. Always handle errors with `.catch()` or try-catch blocks when using async/await."
-    ]
-  },
-  {
     "type": "tweet",
     "text": "🌱 Learn the basics of version control with Git! It’s a must-have skill for collaborative development and keeping track of your projects. \n#WebDev #Git"
   },
