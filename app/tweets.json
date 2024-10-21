@@ -1,10 +1,6 @@
 [
   {
     "type": "tweet",
-    "text": "Prefer #ReactJS but need SSR? #NextJS is your go-to framework for building server-rendered, SEO-friendly apps. 🚀 \n#FrontendDev #JavaScript"
-  },
-  {
-    "type": "tweet",
     "text": "🐛 Debugging in #JavaScript? Try `console.assert()` to test assumptions and avoid potential issues. A simple but effective trick! \n#WebDev #ProgrammingTips"
   },
   {
