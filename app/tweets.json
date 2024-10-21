@@ -1,9 +1,5 @@
 [
   {
-    "type": "tweet",
-    "text": "🐛 Debugging in #JavaScript? Try `console.assert()` to test assumptions and avoid potential issues. A simple but effective trick! \n#WebDev #ProgrammingTips"
-  },
-  {
     "type": "poll",
     "text": "When it comes to testing, which tool do you prefer? 🧪",
     "options": [
