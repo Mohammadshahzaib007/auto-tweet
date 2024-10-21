@@ -1,9 +1,5 @@
 [
   {
-    "type": "tweet",
-    "text": "Pagination or infinite scroll? Both have their pros and cons. Choose based on your app’s performance and UX needs! 📜 \n#WebDesign #FrontendDev"
-  },
-  {
     "type": "thread",
     "thread": [
       "🧵 Thread: Understanding JavaScript Promises! 🔥",
