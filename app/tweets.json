@@ -1,15 +1,5 @@
 [
   {
-    "type": "poll",
-    "text": "Do you prefer writing functional components or class components in React? ⚛️",
-    "options": [
-      "Functional",
-      "Class",
-      "Depends on the project",
-      "No preference"
-    ]
-  },
-  {
     "type": "tweet",
     "text": "Master the art of conditionally applying #CSS classes in #ReactJS using `classnames` or template literals. Keeps your code clean! 🎨 \n#ReactTips #WebDev"
   },
