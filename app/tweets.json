@@ -1,10 +1,6 @@
 [
   {
     "type": "tweet",
-    "text": "Modularize your #NodeJS app! Keep your routes, controllers, and services separate to ensure clean, scalable architecture. 🚀 \n#Backend #WebDevelopment"
-  },
-  {
-    "type": "tweet",
     "text": "When it comes to forms, avoid storing passwords in plain text! Use #bcrypt or another hashing method to ensure user data is secure. 🔒 \n#WebSecurity #BackendDev"
   },
   {
