@@ -1,10 +1,6 @@
 [
   {
     "type": "tweet",
-    "text": "🌱 Learn the basics of version control with Git! It’s a must-have skill for collaborative development and keeping track of your projects. \n#WebDev #Git"
-  },
-  {
-    "type": "tweet",
     "text": "Don't repeat yourself (DRY)! Whether it's #JavaScript functions or #CSS styles, reusing code saves time and reduces bugs! 🔁 \n#WebDevelopment #CodeQuality"
   },
   {
