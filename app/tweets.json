@@ -1,9 +1,5 @@
 [
   {
-    "type": "tweet",
-    "text": "Don't repeat yourself (DRY)! Whether it's #JavaScript functions or #CSS styles, reusing code saves time and reduces bugs! 🔁 \n#WebDevelopment #CodeQuality"
-  },
-  {
     "type": "poll",
     "text": "Do you prefer writing functional components or class components in React? ⚛️",
     "options": [
