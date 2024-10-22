@@ -1,10 +1,6 @@
 [
   {
     "type": "tweet",
-    "text": "Master the art of conditionally applying #CSS classes in #ReactJS using `classnames` or template literals. Keeps your code clean! 🎨 \n#ReactTips #WebDev"
-  },
-  {
-    "type": "tweet",
     "text": "Modularize your #NodeJS app! Keep your routes, controllers, and services separate to ensure clean, scalable architecture. 🚀 \n#Backend #WebDevelopment"
   },
   {
