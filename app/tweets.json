@@ -1,10 +1,6 @@
 [
   {
     "type": "tweet",
-    "text": "CSS transitions can elevate your web animations! Apply `transition` properties to make your hover and focus states more interactive. 🎨 \n#CSS #WebDesign"
-  },
-  {
-    "type": "tweet",
     "text": "💡 Use Service Workers in #JavaScript to enable offline capabilities and improve performance with caching. Progressive web apps FTW! \n#WebDev #PWA"
   },
   {
