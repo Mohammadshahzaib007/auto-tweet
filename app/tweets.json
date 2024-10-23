@@ -1,9 +1,5 @@
 [
   {
-    "type": "tweet",
-    "text": "In #ReactJS, use `React.memo()` to prevent unnecessary re-renders of functional components when props don’t change. Improve performance! 🧠 \n#JavaScript #Frontend"
-  },
-  {
     "type": "poll",
     "text": "What’s your approach to CSS animations? 🌀",
     "options": [
