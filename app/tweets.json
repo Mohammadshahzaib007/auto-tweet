@@ -1,10 +1,6 @@
 [
   {
     "type": "tweet",
-    "text": "When it comes to forms, avoid storing passwords in plain text! Use #bcrypt or another hashing method to ensure user data is secure. 🔒 \n#WebSecurity #BackendDev"
-  },
-  {
-    "type": "tweet",
     "text": "In #ReactJS, use `React.memo()` to prevent unnecessary re-renders of functional components when props don’t change. Improve performance! 🧠 \n#JavaScript #Frontend"
   },
   {
