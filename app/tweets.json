@@ -1,10 +1,6 @@
 [
   {
     "type": "tweet",
-    "text": "💡 Use Service Workers in #JavaScript to enable offline capabilities and improve performance with caching. Progressive web apps FTW! \n#WebDev #PWA"
-  },
-  {
-    "type": "tweet",
     "text": "With #VueJS, you can use Vue Router for seamless navigation and route transitions. Keeps your app snappy and your users happy! 🚀"
   },
   {
