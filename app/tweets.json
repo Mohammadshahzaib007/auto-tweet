@@ -1,15 +1,5 @@
 [
   {
-    "type": "poll",
-    "text": "What’s your approach to CSS animations? 🌀",
-    "options": [
-      "Keyframes",
-      "CSS transitions",
-      "JavaScript",
-      "No animations"
-    ]
-  },
-  {
     "type": "tweet",
     "text": "CSS transitions can elevate your web animations! Apply `transition` properties to make your hover and focus states more interactive. 🎨 \n#CSS #WebDesign"
   },
