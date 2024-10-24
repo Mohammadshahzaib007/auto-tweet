@@ -1,9 +1,5 @@
 [
   {
-    "type": "tweet",
-    "text": "Master #CSS Grid to build complex layouts in fewer lines of code. Once you start using Grid, you won’t go back! 🎨 \n#Frontend #WebDev"
-  },
-  {
     "type": "poll",
     "text": "How do you prefer handling forms in React? 📝",
     "options": [
