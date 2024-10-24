@@ -1,9 +1,5 @@
 [
   {
-    "type": "tweet",
-    "text": "Working with #NodeJS? Always use async/await for better readability and error handling in asynchronous operations. 🧑‍💻 \n#BackendDevelopment #JavaScript"
-  },
-  {
     "type": "thread",
     "thread": [
       "🧵 5 Best Practices for CSS in 2024 🎨",
