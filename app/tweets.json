@@ -1,15 +1,5 @@
 [
   {
-    "type": "poll",
-    "text": "How do you prefer handling forms in React? 📝",
-    "options": [
-      "Controlled components",
-      "Uncontrolled components",
-      "Formik",
-      "React Hook Form"
-    ]
-  },
-  {
     "type": "tweet",
     "text": "In #ReactJS, don’t mutate the state directly. Always use `setState()` to ensure proper re-rendering and updates! 🌀 \n#ReactTips #WebDev"
   },
