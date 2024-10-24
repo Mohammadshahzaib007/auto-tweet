@@ -1,10 +1,6 @@
 [
   {
     "type": "tweet",
-    "text": "In #ReactJS, don’t mutate the state directly. Always use `setState()` to ensure proper re-rendering and updates! 🌀 \n#ReactTips #WebDev"
-  },
-  {
-    "type": "tweet",
     "text": "Working with #NodeJS? Always use async/await for better readability and error handling in asynchronous operations. 🧑‍💻 \n#BackendDevelopment #JavaScript"
   },
   {
