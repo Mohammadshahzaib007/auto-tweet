@@ -1,15 +1,5 @@
 [
   {
-    "type": "poll",
-    "text": "Which JavaScript array method do you use the most? 🔄",
-    "options": [
-      "map()",
-      "filter()",
-      "forEach()",
-      "reduce()"
-    ]
-  },
-  {
     "type": "tweet",
     "text": "In #ReactJS, use `key` props to optimize rendering lists and avoid UI glitches. Simple but powerful! 🔑 \n#FrontendDev #JavaScript"
   },
