@@ -1,10 +1,6 @@
 [
   {
     "type": "tweet",
-    "text": "In #ReactJS, use `key` props to optimize rendering lists and avoid UI glitches. Simple but powerful! 🔑 \n#FrontendDev #JavaScript"
-  },
-  {
-    "type": "tweet",
     "text": "Every #JavaScript developer should master Promises, async/await, and generators for handling asynchronous code like a pro! 🔄 \n#WebDev #ProgrammingTips"
   },
   {
