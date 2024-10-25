@@ -1,9 +1,5 @@
 [
   {
-    "type": "tweet",
-    "text": "CSS `display: grid` is perfect for creating responsive layouts without media queries. Simplify your layout game! 🎨 \n#FrontendDevelopment #CSS"
-  },
-  {
     "type": "poll",
     "text": "Which JavaScript array method do you use the most? 🔄",
     "options": [
