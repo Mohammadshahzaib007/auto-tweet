@@ -1,10 +1,6 @@
 [
   {
     "type": "tweet",
-    "text": "Every #JavaScript developer should master Promises, async/await, and generators for handling asynchronous code like a pro! 🔄 \n#WebDev #ProgrammingTips"
-  },
-  {
-    "type": "tweet",
     "text": "Keep your #NodeJS apps scalable by organizing your code with modules. It keeps things tidy and manageable! 🗂️ \n#Backend #WebDevelopment"
   },
   {
