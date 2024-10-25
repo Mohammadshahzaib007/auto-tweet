@@ -1,16 +1,5 @@
 [
   {
-    "type": "thread",
-    "thread": [
-      "🧵 5 Best Practices for CSS in 2024 🎨",
-      "1. Use Flexbox or Grid for layouts to make your CSS more manageable and modern. #CSSGrid",
-      "2. Leverage custom properties (CSS variables) for theming and consistent styling.",
-      "3. Avoid over-qualifying selectors (e.g., div.button) to improve performance.",
-      "4. Use relative units like rem and em for more responsive designs.",
-      "5. Always use `normalize.css` or `reset.css` to maintain cross-browser consistency."
-    ]
-  },
-  {
     "type": "tweet",
     "text": "CSS `display: grid` is perfect for creating responsive layouts without media queries. Simplify your layout game! 🎨 \n#FrontendDevelopment #CSS"
   },
