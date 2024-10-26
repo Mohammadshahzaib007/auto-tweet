@@ -1,9 +1,5 @@
 [
   {
-    "type": "tweet",
-    "text": "Need a lightweight animation library? Check out #FramerMotion for stunning animations in your #ReactJS apps! 🎥 \n#Frontend #WebDev"
-  },
-  {
     "type": "poll",
     "text": "What's your preferred database when working on full-stack projects? 💾",
     "options": [
