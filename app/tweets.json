@@ -1,10 +1,6 @@
 [
   {
     "type": "tweet",
-    "text": "Components in #ReactJS are like building blocks. Create reusable ones to avoid repetition and speed up your development process! 🧩 \n#FrontendDev #WebDev"
-  },
-  {
-    "type": "tweet",
     "text": "🚀 Speed up your website by lazy loading non-critical JavaScript and CSS files. Performance is key! \n#FrontendPerformance #WebDev"
   },
   {
