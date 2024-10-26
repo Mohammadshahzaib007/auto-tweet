@@ -1,15 +1,5 @@
 [
   {
-    "type": "poll",
-    "text": "What's your preferred database when working on full-stack projects? 💾",
-    "options": [
-      "MySQL",
-      "MongoDB",
-      "PostgreSQL",
-      "SQLite"
-    ]
-  },
-  {
     "type": "tweet",
     "text": "🐛 Debugging tip: Always check for cross-browser compatibility when working with new CSS features like Grid or Flexbox. \n#CSS #FrontendTips"
   },
