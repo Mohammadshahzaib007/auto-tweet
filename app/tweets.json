@@ -1,15 +1,5 @@
 [
   {
-    "type": "poll",
-    "text": "Which JavaScript ES6+ feature do you find most useful? 🧑‍💻",
-    "options": [
-      "Arrow functions",
-      "Destructuring",
-      "Spread/rest operators",
-      "Async/await"
-    ]
-  },
-  {
     "type": "tweet",
     "text": "💡 #CSS `clamp()` allows you to set a min, max, and preferred value for responsive design. It’s great for fluid typography! \n#FrontendTips #WebDesign"
   },
