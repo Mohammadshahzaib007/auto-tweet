@@ -1,9 +1,5 @@
 [
   {
-    "type": "tweet",
-    "text": "Security tip: Use Helmet in #NodeJS to set HTTP headers and protect your app from well-known web vulnerabilities. 🔒 \n#WebSecurity #BackendDev"
-  },
-  {
     "type": "poll",
     "text": "Which JavaScript ES6+ feature do you find most useful? 🧑‍💻",
     "options": [
