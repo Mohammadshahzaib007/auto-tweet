@@ -1,10 +1,6 @@
 [
   {
     "type": "tweet",
-    "text": "💡 #CSS `clamp()` allows you to set a min, max, and preferred value for responsive design. It’s great for fluid typography! \n#FrontendTips #WebDesign"
-  },
-  {
-    "type": "tweet",
     "text": "When working with #NodeJS, use streams for handling large amounts of data efficiently. They prevent your app from running out of memory! 💧 \n#Backend #WebDevelopment"
   },
   {
