@@ -1,10 +1,6 @@
 [
   {
     "type": "tweet",
-    "text": "🚀 Speed up your website by lazy loading non-critical JavaScript and CSS files. Performance is key! \n#FrontendPerformance #WebDev"
-  },
-  {
-    "type": "tweet",
     "text": "Security tip: Use Helmet in #NodeJS to set HTTP headers and protect your app from well-known web vulnerabilities. 🔒 \n#WebSecurity #BackendDev"
   },
   {
