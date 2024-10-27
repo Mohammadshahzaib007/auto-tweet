@@ -1,10 +1,6 @@
 [
   {
     "type": "tweet",
-    "text": "When working with #NodeJS, use streams for handling large amounts of data efficiently. They prevent your app from running out of memory! 💧 \n#Backend #WebDevelopment"
-  },
-  {
-    "type": "tweet",
     "text": "Use `React.StrictMode` to identify potential problems in your application during development. Better safe than sorry! 🧑‍💻 \n#ReactTips #FrontendDev"
   },
   {
