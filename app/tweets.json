@@ -1,15 +1,5 @@
 [
   {
-    "type": "poll",
-    "text": "How do you prefer styling your React components? 🎨",
-    "options": [
-      "CSS Modules",
-      "Styled-components",
-      "Sass/SCSS",
-      "TailwindCSS"
-    ]
-  },
-  {
     "type": "tweet",
     "text": "In #VueJS, use Vuex for state management when your app starts growing large. It helps keep things organized and scalable! 🔄 \n#JavaScript #WebDev"
   },
