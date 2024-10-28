@@ -1,10 +1,6 @@
 [
   {
     "type": "tweet",
-    "text": "In #VueJS, use Vuex for state management when your app starts growing large. It helps keep things organized and scalable! 🔄 \n#JavaScript #WebDev"
-  },
-  {
-    "type": "tweet",
     "text": "💡 Pro tip: Avoid using inline styles in #ReactJS. Use className or styled-components for better performance and separation of concerns! 🎨 \n#Frontend #JavaScript"
   },
   {
