@@ -1,10 +1,6 @@
 [
   {
     "type": "tweet",
-    "text": "💡 Pro tip: Avoid using inline styles in #ReactJS. Use className or styled-components for better performance and separation of concerns! 🎨 \n#Frontend #JavaScript"
-  },
-  {
-    "type": "tweet",
     "text": "Ever tried writing custom hooks in #ReactJS? They’re a powerful way to reuse stateful logic across components. 🔄 \n#ReactTips #WebDev"
   },
   {
