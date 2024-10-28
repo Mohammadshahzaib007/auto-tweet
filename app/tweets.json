@@ -1,9 +1,5 @@
 [
   {
-    "type": "tweet",
-    "text": "Use `React.StrictMode` to identify potential problems in your application during development. Better safe than sorry! 🧑‍💻 \n#ReactTips #FrontendDev"
-  },
-  {
     "type": "thread",
     "thread": [
       "🧵 Thread: How to write maintainable and scalable #JavaScript code 🧑‍💻",
