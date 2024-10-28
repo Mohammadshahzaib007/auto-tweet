@@ -1,16 +1,5 @@
 [
   {
-    "type": "thread",
-    "thread": [
-      "🧵 Thread: How to write maintainable and scalable #JavaScript code 🧑‍💻",
-      "1. Keep functions small and focused on doing one thing. #CleanCode",
-      "2. Avoid global variables to prevent unexpected behavior.",
-      "3. Use meaningful names for variables and functions.",
-      "4. Break your code into modules for better organization.",
-      "5. Always add comments for complex logic, but don’t over-comment!"
-    ]
-  },
-  {
     "type": "poll",
     "text": "How do you prefer styling your React components? 🎨",
     "options": [
