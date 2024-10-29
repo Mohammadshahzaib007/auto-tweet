@@ -1,10 +1,6 @@
 [
   {
     "type": "tweet",
-    "text": "Ever tried writing custom hooks in #ReactJS? They’re a powerful way to reuse stateful logic across components. 🔄 \n#ReactTips #WebDev"
-  },
-  {
-    "type": "tweet",
     "text": "When working with #NodeJS, prefer asynchronous methods over synchronous ones for non-blocking I/O. Keeps your server fast! 🚀 \n#Backend #JavaScript"
   },
   {
