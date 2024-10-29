@@ -1,10 +1,6 @@
 [
   {
     "type": "tweet",
-    "text": "🛠️ In #ReactJS, avoid re-rendering by using `React.memo` for functional components that don’t change often. Saves time and resources! \n#ReactTips #FrontendDev"
-  },
-  {
-    "type": "tweet",
     "text": "Use #PostCSS to process your CSS files for better performance and maintainability. It’s like Babel for CSS! 🚀 \n#WebDev #CSSTips"
   },
   {
