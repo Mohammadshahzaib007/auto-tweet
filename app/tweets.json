@@ -1,10 +1,6 @@
 [
   {
     "type": "tweet",
-    "text": "Use #PostCSS to process your CSS files for better performance and maintainability. It’s like Babel for CSS! 🚀 \n#WebDev #CSSTips"
-  },
-  {
-    "type": "tweet",
     "text": "Error handling in #NodeJS is crucial. Always handle errors gracefully with try/catch or promises to ensure your app doesn’t crash unexpectedly! 🛡️ \n#Backend #JavaScript"
   },
   {
