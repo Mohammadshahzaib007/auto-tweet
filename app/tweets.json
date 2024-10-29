@@ -1,9 +1,5 @@
 [
   {
-    "type": "tweet",
-    "text": "When working with #NodeJS, prefer asynchronous methods over synchronous ones for non-blocking I/O. Keeps your server fast! 🚀 \n#Backend #JavaScript"
-  },
-  {
     "type": "poll",
     "text": "Which bundler do you prefer for your JavaScript projects? 📦",
     "options": [
