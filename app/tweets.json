@@ -1,15 +1,5 @@
 [
   {
-    "type": "poll",
-    "text": "Which bundler do you prefer for your JavaScript projects? 📦",
-    "options": [
-      "Webpack",
-      "Parcel",
-      "Vite",
-      "Rollup"
-    ]
-  },
-  {
     "type": "tweet",
     "text": "🛠️ In #ReactJS, avoid re-rendering by using `React.memo` for functional components that don’t change often. Saves time and resources! \n#ReactTips #FrontendDev"
   },
