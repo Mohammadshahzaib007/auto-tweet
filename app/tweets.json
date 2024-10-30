@@ -1,9 +1,5 @@
 [
   {
-    "type": "tweet",
-    "text": "💡 #CSS Flexbox is ideal for one-dimensional layouts, but for more complex two-dimensional layouts, #CSS Grid is your friend. 🎨 \n#FrontendDev #WebDesign"
-  },
-  {
     "type": "poll",
     "text": "What’s your favorite code editor? 🖥️",
     "options": [
