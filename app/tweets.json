@@ -1,10 +1,6 @@
 [
   {
     "type": "tweet",
-    "text": "🔑 Use `aria-*` attributes in your HTML to improve the accessibility of your web apps. Every user should have a seamless experience! ♿ \n#WebAccessibility #Frontend"
-  },
-  {
-    "type": "tweet",
     "text": "Always optimize your #JavaScript bundles with tools like Webpack or Parcel. Smaller files = faster load times! 🚀 \n#FrontendPerformance #WebDev"
   },
   {
