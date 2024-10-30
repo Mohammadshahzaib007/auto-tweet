@@ -1,10 +1,6 @@
 [
   {
     "type": "tweet",
-    "text": "Avoid blocking the main thread in #NodeJS. Use workers or child processes for CPU-intensive tasks to keep things non-blocking. 🚀 \n#BackendDev #JavaScript"
-  },
-  {
-    "type": "tweet",
     "text": "🔑 Use `aria-*` attributes in your HTML to improve the accessibility of your web apps. Every user should have a seamless experience! ♿ \n#WebAccessibility #Frontend"
   },
   {
