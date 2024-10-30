@@ -1,15 +1,5 @@
 [
   {
-    "type": "poll",
-    "text": "What’s your favorite code editor? 🖥️",
-    "options": [
-      "VSCode",
-      "Sublime Text",
-      "Atom",
-      "WebStorm"
-    ]
-  },
-  {
     "type": "tweet",
     "text": "Avoid blocking the main thread in #NodeJS. Use workers or child processes for CPU-intensive tasks to keep things non-blocking. 🚀 \n#BackendDev #JavaScript"
   },
