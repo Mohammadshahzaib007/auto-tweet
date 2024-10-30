@@ -1,10 +1,6 @@
 [
   {
     "type": "tweet",
-    "text": "Error handling in #NodeJS is crucial. Always handle errors gracefully with try/catch or promises to ensure your app doesn’t crash unexpectedly! 🛡️ \n#Backend #JavaScript"
-  },
-  {
-    "type": "tweet",
     "text": "💡 #CSS Flexbox is ideal for one-dimensional layouts, but for more complex two-dimensional layouts, #CSS Grid is your friend. 🎨 \n#FrontendDev #WebDesign"
   },
   {
