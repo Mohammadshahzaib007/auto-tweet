@@ -1,10 +1,6 @@
 [
   {
     "type": "tweet",
-    "text": "In #VueJS, you can use `v-model` to create two-way data binding between form inputs and your component data. Simple and effective! 💡 \n#Frontend #JavaScript"
-  },
-  {
-    "type": "tweet",
     "text": "Avoid deep prop drilling in #ReactJS by using Context API or libraries like Redux for better state management. 🚀 \n#ReactTips #WebDev"
   },
   {
