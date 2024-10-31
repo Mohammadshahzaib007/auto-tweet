@@ -1,16 +1,5 @@
 [
   {
-    "type": "thread",
-    "thread": [
-      "🧵 Top 5 tips to master #NodeJS 🛠️",
-      "1. Use asynchronous code where possible—Node.js is non-blocking! #AsyncJS",
-      "2. Make use of `EventEmitter` to handle events efficiently.",
-      "3. Use `cluster` module to scale Node.js apps across multiple CPU cores.",
-      "4. Always handle errors properly with `try/catch` or `.catch()` for promises.",
-      "5. Use environment variables to store sensitive information like API keys."
-    ]
-  },
-  {
     "type": "tweet",
     "text": "In #VueJS, you can use `v-model` to create two-way data binding between form inputs and your component data. Simple and effective! 💡 \n#Frontend #JavaScript"
   },
