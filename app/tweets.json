@@ -1,10 +1,6 @@
 [
   {
     "type": "tweet",
-    "text": "Always optimize your #JavaScript bundles with tools like Webpack or Parcel. Smaller files = faster load times! 🚀 \n#FrontendPerformance #WebDev"
-  },
-  {
-    "type": "tweet",
     "text": "Pro tip: Use EJS or Handlebars as your templating engine for #NodeJS when you need to serve dynamic content easily. 📝 \n#Backend #WebDevelopment"
   },
   {
