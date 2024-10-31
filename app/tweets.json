@@ -1,9 +1,5 @@
 [
   {
-    "type": "tweet",
-    "text": "Pro tip: Use EJS or Handlebars as your templating engine for #NodeJS when you need to serve dynamic content easily. 📝 \n#Backend #WebDevelopment"
-  },
-  {
     "type": "thread",
     "thread": [
       "🧵 Top 5 tips to master #NodeJS 🛠️",
