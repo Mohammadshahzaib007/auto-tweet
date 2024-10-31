@@ -1,10 +1,6 @@
 [
   {
     "type": "tweet",
-    "text": "Avoid deep prop drilling in #ReactJS by using Context API or libraries like Redux for better state management. 🚀 \n#ReactTips #WebDev"
-  },
-  {
-    "type": "tweet",
     "text": "Use #TypeScript in your #NodeJS project for better type safety and fewer runtime errors. It’s a game changer! 🛠️ \n#JavaScript #Backend"
   },
   {
