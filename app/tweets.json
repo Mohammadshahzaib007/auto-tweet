@@ -1,10 +1,6 @@
 [
   {
     "type": "tweet",
-    "text": "💡 In #CSS, use `min()` and `max()` functions to create fluid layouts with dynamic sizing. Simplifies responsive design! 🎨 \n#FrontendTips #WebDesign"
-  },
-  {
-    "type": "tweet",
     "text": "Ever considered server-side rendering (SSR) in #ReactJS? Tools like Next.js make SSR super easy and boost your app’s SEO! 🚀 \n#Frontend #JavaScript"
   },
   {
