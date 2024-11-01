@@ -1,10 +1,6 @@
 [
   {
     "type": "tweet",
-    "text": "Use #TypeScript in your #NodeJS project for better type safety and fewer runtime errors. It’s a game changer! 🛠️ \n#JavaScript #Backend"
-  },
-  {
-    "type": "tweet",
     "text": "CSS `position: sticky;` is perfect for creating sticky headers or sidebars without the complexity of JavaScript! 🎯 \n#Frontend #CSSTips"
   },
   {
