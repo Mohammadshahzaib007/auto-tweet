@@ -1,15 +1,5 @@
 [
   {
-    "type": "poll",
-    "text": "When learning a new tech, do you prefer: 📚",
-    "options": [
-      "Reading docs",
-      "Watching tutorials",
-      "Building projects",
-      "Attending a course"
-    ]
-  },
-  {
     "type": "tweet",
     "text": "Need a testing framework for #NodeJS? Try out Mocha or Jest for smooth and efficient testing workflows! ✅ \n#Backend #JavaScript"
   },
