@@ -1,9 +1,5 @@
 [
   {
-    "type": "tweet",
-    "text": "CSS `position: sticky;` is perfect for creating sticky headers or sidebars without the complexity of JavaScript! 🎯 \n#Frontend #CSSTips"
-  },
-  {
     "type": "poll",
     "text": "When learning a new tech, do you prefer: 📚",
     "options": [
