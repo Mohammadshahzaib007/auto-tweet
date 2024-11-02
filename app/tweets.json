@@ -1,10 +1,6 @@
 [
   {
     "type": "tweet",
-    "text": "Avoid inline styles in #ReactJS for better performance and scalability. Use CSS-in-JS libraries like styled-components instead! ✨ \n#FrontendDev #JavaScript"
-  },
-  {
-    "type": "tweet",
     "text": "Pro tip: In #NodeJS, use PM2 to manage and monitor your production app. It helps with load balancing and ensures uptime! 🚀 \n#Backend #WebDevelopment"
   },
   {
