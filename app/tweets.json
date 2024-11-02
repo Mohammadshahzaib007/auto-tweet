@@ -1,15 +1,5 @@
 [
   {
-    "type": "poll",
-    "text": "Which JavaScript framework do you find more beginner-friendly? 💡",
-    "options": [
-      "React",
-      "Vue",
-      "Angular",
-      "Svelte"
-    ]
-  },
-  {
     "type": "tweet",
     "text": "Avoid inline styles in #ReactJS for better performance and scalability. Use CSS-in-JS libraries like styled-components instead! ✨ \n#FrontendDev #JavaScript"
   },
