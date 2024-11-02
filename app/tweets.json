@@ -1,10 +1,6 @@
 [
   {
     "type": "tweet",
-    "text": "Pro tip: In #NodeJS, use PM2 to manage and monitor your production app. It helps with load balancing and ensures uptime! 🚀 \n#Backend #WebDevelopment"
-  },
-  {
-    "type": "tweet",
     "text": "💡 When animating with #CSS, always use `transform` and `opacity` for smoother animations. Avoid animating properties like `top` and `left`. \n#FrontendDev #WebDesign"
   },
   {
