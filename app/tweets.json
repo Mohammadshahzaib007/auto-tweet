@@ -1,10 +1,6 @@
 [
   {
     "type": "tweet",
-    "text": "Ever considered server-side rendering (SSR) in #ReactJS? Tools like Next.js make SSR super easy and boost your app’s SEO! 🚀 \n#Frontend #JavaScript"
-  },
-  {
-    "type": "tweet",
     "text": "In #NodeJS, prefer promises over callbacks for better readability and error handling. Modernize your code! 🧑‍💻 \n#BackendDev #JavaScript"
   },
   {
