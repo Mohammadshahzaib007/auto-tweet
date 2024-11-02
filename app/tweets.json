@@ -1,9 +1,5 @@
 [
   {
-    "type": "tweet",
-    "text": "In #NodeJS, prefer promises over callbacks for better readability and error handling. Modernize your code! 🧑‍💻 \n#BackendDev #JavaScript"
-  },
-  {
     "type": "poll",
     "text": "Which JavaScript framework do you find more beginner-friendly? 💡",
     "options": [
