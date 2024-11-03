@@ -1,9 +1,5 @@
 [
   {
-    "type": "tweet",
-    "text": "Don’t over-engineer! Sometimes a simple vanilla #JavaScript solution is all you need. Keep it simple, keep it clean. 🚀 \n#WebDev #ProgrammingTips"
-  },
-  {
     "type": "poll",
     "text": "How do you usually debug your code? 🐛",
     "options": [
