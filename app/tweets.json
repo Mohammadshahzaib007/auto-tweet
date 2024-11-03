@@ -1,15 +1,5 @@
 [
   {
-    "type": "poll",
-    "text": "How do you usually debug your code? 🐛",
-    "options": [
-      "console.log()",
-      "Debugger",
-      "VSCode Breakpoints",
-      "Browser DevTools"
-    ]
-  },
-  {
     "type": "thread",
     "thread": [
       "🧵 How to handle forms in #ReactJS effectively: ⚛️",
