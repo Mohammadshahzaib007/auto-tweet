@@ -1,10 +1,6 @@
 [
   {
     "type": "tweet",
-    "text": "In #VueJS, the Composition API provides greater flexibility when building large-scale apps. Definitely worth learning! 🚀 \n#Frontend #JavaScript"
-  },
-  {
-    "type": "tweet",
     "text": "Want to build a static site? Check out #GatsbyJS for a blazing-fast, SEO-friendly experience using #ReactJS. ⚡ \n#FrontendDev #WebDev"
   },
   {
