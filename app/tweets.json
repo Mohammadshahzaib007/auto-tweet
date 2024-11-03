@@ -1,10 +1,6 @@
 [
   {
     "type": "tweet",
-    "text": "💡 When animating with #CSS, always use `transform` and `opacity` for smoother animations. Avoid animating properties like `top` and `left`. \n#FrontendDev #WebDesign"
-  },
-  {
-    "type": "tweet",
     "text": "Don’t over-engineer! Sometimes a simple vanilla #JavaScript solution is all you need. Keep it simple, keep it clean. 🚀 \n#WebDev #ProgrammingTips"
   },
   {
