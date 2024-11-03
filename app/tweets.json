@@ -1,16 +1,5 @@
 [
   {
-    "type": "thread",
-    "thread": [
-      "🧵 How to handle forms in #ReactJS effectively: ⚛️",
-      "1. Use controlled components to manage form data within the component's state.",
-      "2. Leverage `onChange` event handlers to update state on input changes.",
-      "3. Use `Formik` or `react-hook-form` to simplify form handling in larger apps.",
-      "4. Always validate user input with form validation libraries.",
-      "5. Make use of `HTML5` form attributes for basic validation (like `required`, `pattern`, etc)."
-    ]
-  },
-  {
     "type": "tweet",
     "text": "In #VueJS, the Composition API provides greater flexibility when building large-scale apps. Definitely worth learning! 🚀 \n#Frontend #JavaScript"
   },
