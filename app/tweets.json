@@ -1,10 +1,6 @@
 [
   {
     "type": "tweet",
-    "text": "ReactJS makes building complex user interfaces a breeze. ⚛️ Components, state management, and JSX make it a developer's dream. #ReactJS"
-  },
-  {
-    "type": "tweet",
     "text": "Vue.js is another popular framework for building reactive user interfaces. 🌱 Its simplicity and flexibility make it a great choice for many projects. #VueJS"
   },
   {
