@@ -1,15 +1,5 @@
 [
   {
-    "type": "poll",
-    "text": "How many hours a week do you spend coding? 💻",
-    "options": [
-      "Less than 10",
-      "10-20",
-      "20-40",
-      "40+"
-    ]
-  },
-  {
     "type": "tweet",
     "text": "JavaScript is the magic behind interactive web pages. ✨ Learn the basics and unlock a world of possibilities. #JavaScript"
   },
