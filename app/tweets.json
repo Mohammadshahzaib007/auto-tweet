@@ -1,10 +1,6 @@
 [
   {
     "type": "tweet",
-    "text": "JavaScript is the magic behind interactive web pages. ✨ Learn the basics and unlock a world of possibilities. #JavaScript"
-  },
-  {
-    "type": "tweet",
     "text": "ReactJS makes building complex user interfaces a breeze. ⚛️ Components, state management, and JSX make it a developer's dream. #ReactJS"
   },
   {
