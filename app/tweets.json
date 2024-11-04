@@ -1,9 +1,5 @@
 [
   {
-    "type": "tweet",
-    "text": "Debugging HTML is like searching for a needle in a haystack. 🔍 But with the right tools and techniques, it can be a breeze. #HTMLtips"
-  },
-  {
     "type": "poll",
     "text": "How many hours a week do you spend coding? 💻",
     "options": [
