@@ -1,15 +1,5 @@
 [
   {
-    "type": "poll",
-    "text": "What’s your favorite way to manage your project workflow? 🧑‍💻",
-    "options": [
-      "Trello",
-      "Jira",
-      "Notion",
-      "Asana"
-    ]
-  },
-  {
     "type": "tweet",
     "text": "Want to learn more about web development? 💻 Check out these free online resources: https://github.com/iamismile/web-dev-resources"
   },
