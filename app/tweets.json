@@ -1,9 +1,5 @@
 [
   {
-    "type": "tweet",
-    "text": "Tailwind CSS is a utility-first CSS framework that simplifies styling. 🚀 Its pre-built classes make it easy to create custom designs. #TailwindCSS"
-  },
-  {
     "type": "poll",
     "text": "What’s your favorite way to manage your project workflow? 🧑‍💻",
     "options": [
