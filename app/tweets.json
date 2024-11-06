@@ -1,9 +1,5 @@
 [
   {
-    "type": "tweet",
-    "text": "Don't be afraid to ask for help. 🤝 The web development community is full of friendly and supportive people. #AskForHelp"
-  },
-  {
     "type": "poll",
     "text": "Do you prefer dark mode or light mode in your code editor? 🌑",
     "options": [
