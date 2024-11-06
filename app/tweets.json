@@ -1,15 +1,5 @@
 [
   {
-    "type": "poll",
-    "text": "Do you prefer dark mode or light mode in your code editor? 🌑",
-    "options": [
-      "Dark mode",
-      "Light mode",
-      "Switch between both",
-      "No preference"
-    ]
-  },
-  {
     "type": "tweet",
     "text": "Take breaks and avoid burnout. 🧘‍♀️ It's important to rest and recharge your mind. #AvoidBurnout"
   },
