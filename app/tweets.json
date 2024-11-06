@@ -1,16 +1,5 @@
 [
   {
-    "type": "thread",
-    "thread": [
-      "🧵 5 Key Points to Remember about CSS Flexbox 🚀",
-      "1. Use `justify-content` to align items horizontally inside a flex container. #CSS",
-      "2. Use `align-items` to align items vertically within the container.",
-      "3. Use `flex-wrap` to handle overflow and break items into multiple rows.",
-      "4. Control how much space items take up with the `flex-grow` property.",
-      "5. Use `align-self` to override the alignment for individual flex items."
-    ]
-  },
-  {
     "type": "tweet",
     "text": "Find a mentor or join a study group. 🤝 Learning with others can be a great way to stay motivated and learn new things. #FindAMentor"
   },
