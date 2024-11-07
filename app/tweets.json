@@ -1,9 +1,5 @@
 [
   {
-    "type": "tweet",
-    "text": "Set realistic goals and celebrate your achievements. 🎉 Small wins can add up to big accomplishments. #SetGoals"
-  },
-  {
     "type": "poll",
     "text": "When coding, what do you prefer: Tabs or spaces? 🔢",
     "options": [
