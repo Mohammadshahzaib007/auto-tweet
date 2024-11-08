@@ -1,9 +1,5 @@
 [
   {
-    "type": "tweet",
-    "text": "Enjoy the process! 🎨 Web development can be a fun and rewarding journey. So have fun and enjoy the ride! #EnjoyTheProcess"
-  },
-  {
     "type": "poll",
     "text": "What’s your go-to framework for building REST APIs? 🔗",
     "options": [
