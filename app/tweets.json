@@ -1,15 +1,5 @@
 [
   {
-    "type": "poll",
-    "text": "What’s your go-to framework for building REST APIs? 🔗",
-    "options": [
-      "Express.js",
-      "Fastify",
-      "Koa",
-      "NestJS"
-    ]
-  },
-  {
     "type": "tweet",
     "text": "Fact: JavaScript was created in just 10 days! 🤯 Brendan Eich wrote it in 1995, and it’s now one of the most widely-used programming languages. \n#JavaScript #WebDevHistory"
   },
