@@ -1,9 +1,5 @@
 [
   {
-    "type": "tweet",
-    "text": "📊 Did you know? Studies show that developers spend 70% of their time reading code and only 30% writing it. Write clean, readable code! \n#DeveloperLife #ProgrammingTips"
-  },
-  {
     "type": "thread",
     "thread": [
       "🧵 How to master debugging in JavaScript 🔍",
