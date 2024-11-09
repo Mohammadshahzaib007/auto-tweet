@@ -1,15 +1,5 @@
 [
   {
-    "type": "poll",
-    "text": "Do you prefer to test your code: 🧪",
-    "options": [
-      "Before development",
-      "After development",
-      "During development",
-      "Don’t test much"
-    ]
-  },
-  {
     "type": "tweet",
     "text": "Pro tip: Always lint your code! It’s like having a spell checker for your programming language. Clean code = fewer bugs! 🧹✨ \n#JavaScript #WebDev"
   },
