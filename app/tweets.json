@@ -1,9 +1,5 @@
 [
   {
-    "type": "tweet",
-    "text": "Pro tip: Always celebrate small wins, whether it’s fixing a bug, learning a new framework, or completing a task early. It helps keep motivation high! 🎉💻 \n#DeveloperLife #Motivation"
-  },
-  {
     "type": "poll",
     "text": "Do you prefer to test your code: 🧪",
     "options": [
