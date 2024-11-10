@@ -1,16 +1,5 @@
 [
   {
-    "type": "thread",
-    "thread": [
-      "🧵 How to master debugging in JavaScript 🔍",
-      "1. Always use `console.log()` effectively by printing values at various stages of the code.",
-      "2. Use breakpoints in browser dev tools to pause execution and inspect variables.",
-      "3. Understand the call stack and step through the code execution.",
-      "4. Look for syntax errors first—they're the easiest to fix! 😅",
-      "5. Use online debugging tools like JSFiddle and CodePen to test code in isolation."
-    ]
-  },
-  {
     "type": "tweet",
     "text": "Debugging tip: Use `console.table()` in JavaScript for a cleaner way to log arrays or objects. It’s more readable than `console.log()`! 🛠️ \n#JavaScript #WebDevelopment"
   },
