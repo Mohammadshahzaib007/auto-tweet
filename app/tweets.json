@@ -1,10 +1,6 @@
 [
   {
     "type": "tweet",
-    "text": "JavaScript is single-threaded, but you can achieve concurrency using async/await and Promises. Unlock the power of parallelism! ⚡ \n#JavaScript #WebDevelopment"
-  },
-  {
-    "type": "tweet",
     "text": "🔑 Security tip: Always sanitize user inputs! It’s your first line of defense against SQL injection and XSS attacks. 🛡️ \n#WebSecurity #WebDev"
   },
   {
