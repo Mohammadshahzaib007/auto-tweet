@@ -1,15 +1,5 @@
 [
   {
-    "type": "poll",
-    "text": "How do you organize your Git commits? 🔄",
-    "options": [
-      "By feature",
-      "By fix",
-      "By task",
-      "No strict rules"
-    ]
-  },
-  {
     "type": "tweet",
     "text": "💡 Use VS Code shortcuts like `Ctrl + D` to select multiple instances of the same word. It’ll save you tons of time when refactoring! ⏳ \n#VSCodeTips #DeveloperLife"
   },
