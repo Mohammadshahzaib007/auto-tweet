@@ -1,10 +1,6 @@
 [
   {
     "type": "tweet",
-    "text": "💡 Use VS Code shortcuts like `Ctrl + D` to select multiple instances of the same word. It’ll save you tons of time when refactoring! ⏳ \n#VSCodeTips #DeveloperLife"
-  },
-  {
-    "type": "tweet",
     "text": "JavaScript is single-threaded, but you can achieve concurrency using async/await and Promises. Unlock the power of parallelism! ⚡ \n#JavaScript #WebDevelopment"
   },
   {
