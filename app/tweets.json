@@ -1,10 +1,6 @@
 [
   {
     "type": "tweet",
-    "text": "CSS tip: Avoid using too many `!important` declarations. It leads to a specificity war and makes your styles harder to maintain. 🎨 \n#CSSTips #FrontendDev"
-  },
-  {
-    "type": "tweet",
     "text": "Fact: Python was named after Monty Python, not the snake. 🐍 Guido van Rossum wanted something fun and memorable! \n#Python #FunFact"
   },
   {
