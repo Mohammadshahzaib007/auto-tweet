@@ -1,10 +1,6 @@
 [
   {
     "type": "tweet",
-    "text": "🔑 Security tip: Always sanitize user inputs! It’s your first line of defense against SQL injection and XSS attacks. 🛡️ \n#WebSecurity #WebDev"
-  },
-  {
-    "type": "tweet",
     "text": "Fact: The term ‘bug’ in programming was coined when an actual moth was found in a computer, causing a malfunction. 🦋 \n#ProgrammingHistory #FunFact"
   },
   {
