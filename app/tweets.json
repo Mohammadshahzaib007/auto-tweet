@@ -1,10 +1,6 @@
 [
   {
     "type": "tweet",
-    "text": "Fact: Python was named after Monty Python, not the snake. 🐍 Guido van Rossum wanted something fun and memorable! \n#Python #FunFact"
-  },
-  {
-    "type": "tweet",
     "text": "💻 Hot reload vs. live reload in #ReactJS: Hot reload keeps the state of your component intact, while live reload refreshes the whole app. Know the difference! 🌀 \n#WebDev #JavaScript"
   },
   {
