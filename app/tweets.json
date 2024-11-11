@@ -1,9 +1,5 @@
 [
   {
-    "type": "tweet",
-    "text": "Fact: The term ‘bug’ in programming was coined when an actual moth was found in a computer, causing a malfunction. 🦋 \n#ProgrammingHistory #FunFact"
-  },
-  {
     "type": "poll",
     "text": "What’s your preferred JavaScript feature? 🚀",
     "options": [
