@@ -1,9 +1,5 @@
 [
   {
-    "type": "tweet",
-    "text": "The 10,000-hour rule also applies to coding. The more you practice, the better you get. Stay consistent! 💪 \n#DevLife #Programming"
-  },
-  {
     "type": "poll",
     "text": "Which CSS layout technique do you prefer? 🎨",
     "options": [
