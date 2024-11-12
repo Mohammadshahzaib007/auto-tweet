@@ -1,10 +1,6 @@
 [
   {
     "type": "tweet",
-    "text": "💡 Always validate your forms on both the client and server sides. Never rely solely on client-side validation—it’s easily bypassed! 🛡️ \n#WebSecurity #FrontendDev"
-  },
-  {
-    "type": "tweet",
     "text": "Developer life tip: Get comfortable with being uncomfortable. Learning new languages or frameworks often feels overwhelming at first, but that’s how you grow! 🌱 \n#DevLife #LearningToCode"
   },
   {
