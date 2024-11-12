@@ -1,10 +1,6 @@
 [
   {
     "type": "tweet",
-    "text": "💻 Hot reload vs. live reload in #ReactJS: Hot reload keeps the state of your component intact, while live reload refreshes the whole app. Know the difference! 🌀 \n#WebDev #JavaScript"
-  },
-  {
-    "type": "tweet",
     "text": "The 10,000-hour rule also applies to coding. The more you practice, the better you get. Stay consistent! 💪 \n#DevLife #Programming"
   },
   {
