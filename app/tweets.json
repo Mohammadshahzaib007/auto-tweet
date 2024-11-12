@@ -1,15 +1,5 @@
 [
   {
-    "type": "poll",
-    "text": "Which CSS layout technique do you prefer? 🎨",
-    "options": [
-      "Flexbox",
-      "Grid",
-      "Float",
-      "Positioning"
-    ]
-  },
-  {
     "type": "tweet",
     "text": "Fun fact: The first computer programmer was Ada Lovelace in the 1840s. She wrote an algorithm for Charles Babbage’s early mechanical general-purpose computer. 💻 \n#ProgrammingHistory #WomenInTech"
   },
