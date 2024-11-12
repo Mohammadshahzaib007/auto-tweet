@@ -1,10 +1,6 @@
 [
   {
     "type": "tweet",
-    "text": "Fun fact: The first computer programmer was Ada Lovelace in the 1840s. She wrote an algorithm for Charles Babbage’s early mechanical general-purpose computer. 💻 \n#ProgrammingHistory #WomenInTech"
-  },
-  {
-    "type": "tweet",
     "text": "💡 Always validate your forms on both the client and server sides. Never rely solely on client-side validation—it’s easily bypassed! 🛡️ \n#WebSecurity #FrontendDev"
   },
   {
