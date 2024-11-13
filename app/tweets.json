@@ -1,10 +1,6 @@
 [
   {
     "type": "tweet",
-    "text": "💡 Use object destructuring in #JavaScript to simplify your code. It makes your variable declarations shorter and cleaner! 🧑‍💻 \n#CodingTips #FrontendDev"
-  },
-  {
-    "type": "tweet",
     "text": "Working with #ReactJS? Use React.Fragment to avoid adding unnecessary wrapper elements to your DOM. Keep it clean! 📦 \n#ReactTips #WebDev"
   },
   {
