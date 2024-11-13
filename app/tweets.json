@@ -1,16 +1,5 @@
 [
   {
-    "type": "thread",
-    "thread": [
-      "🧵 Thread: 5 tips to boost your productivity as a developer 🧑‍💻",
-      "1. Automate repetitive tasks using build tools like Webpack or Gulp. ⚙️",
-      "2. Keep your workspace clean and organized. 🧼",
-      "3. Use keyboard shortcuts to speed up your workflow.",
-      "4. Break tasks down into smaller, manageable steps. ✅",
-      "5. Take regular breaks to avoid burnout. ☕"
-    ]
-  },
-  {
     "type": "poll",
     "text": "How do you approach debugging JavaScript? 🔍",
     "options": [
