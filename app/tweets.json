@@ -1,10 +1,6 @@
 [
   {
     "type": "tweet",
-    "text": "Fact: JavaScript was initially called ‘Mocha,’ then ‘LiveScript’ before being renamed to JavaScript by Netscape. 🌐 \n#JavaScriptHistory #WebDev"
-  },
-  {
-    "type": "tweet",
     "text": "💡 Use object destructuring in #JavaScript to simplify your code. It makes your variable declarations shorter and cleaner! 🧑‍💻 \n#CodingTips #FrontendDev"
   },
   {
