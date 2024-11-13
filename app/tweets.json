@@ -1,15 +1,5 @@
 [
   {
-    "type": "poll",
-    "text": "How do you approach debugging JavaScript? 🔍",
-    "options": [
-      "Console logging",
-      "Using breakpoints",
-      "Debugger tools",
-      "I don’t debug much"
-    ]
-  },
-  {
     "type": "tweet",
     "text": "Fact: JavaScript was initially called ‘Mocha,’ then ‘LiveScript’ before being renamed to JavaScript by Netscape. 🌐 \n#JavaScriptHistory #WebDev"
   },
