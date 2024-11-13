@@ -1,9 +1,5 @@
 [
   {
-    "type": "tweet",
-    "text": "Developer life tip: Get comfortable with being uncomfortable. Learning new languages or frameworks often feels overwhelming at first, but that’s how you grow! 🌱 \n#DevLife #LearningToCode"
-  },
-  {
     "type": "thread",
     "thread": [
       "🧵 Thread: 5 tips to boost your productivity as a developer 🧑‍💻",
