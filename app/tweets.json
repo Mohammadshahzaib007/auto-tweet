@@ -1,10 +1,6 @@
 [
   {
     "type": "tweet",
-    "text": "Working with #ReactJS? Use React.Fragment to avoid adding unnecessary wrapper elements to your DOM. Keep it clean! 📦 \n#ReactTips #WebDev"
-  },
-  {
-    "type": "tweet",
     "text": "Fact: The first hard disk drive was developed by IBM in 1956, with a capacity of just 5 MB. Now we carry terabytes in our pockets! 💾 \n#TechHistory #FunFact"
   },
   {
