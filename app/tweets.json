@@ -1,10 +1,6 @@
 [
   {
     "type": "tweet",
-    "text": "Pro tip: Use `console.time()` and `console.timeEnd()` in #JavaScript to measure how long your code takes to execute. Great for performance tuning! ⏱️ \n#WebDev #ProgrammingTips"
-  },
-  {
-    "type": "tweet",
     "text": "📊 Fun fact: The average developer writes about 50 lines of code per day after debugging, testing, and refactoring. Quality over quantity! 💻 \n#DevLife #Coding"
   },
   {
