@@ -1,15 +1,5 @@
 [
   {
-    "type": "poll",
-    "text": "Which React feature do you find most useful? ⚛️",
-    "options": [
-      "Hooks",
-      "Context API",
-      "React Router",
-      "Redux"
-    ]
-  },
-  {
     "type": "tweet",
     "text": "Pro tip: Use `console.time()` and `console.timeEnd()` in #JavaScript to measure how long your code takes to execute. Great for performance tuning! ⏱️ \n#WebDev #ProgrammingTips"
   },
