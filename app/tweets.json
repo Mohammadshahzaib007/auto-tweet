@@ -1,9 +1,5 @@
 [
   {
-    "type": "tweet",
-    "text": "Fact: The first hard disk drive was developed by IBM in 1956, with a capacity of just 5 MB. Now we carry terabytes in our pockets! 💾 \n#TechHistory #FunFact"
-  },
-  {
     "type": "poll",
     "text": "Which React feature do you find most useful? ⚛️",
     "options": [
