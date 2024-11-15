@@ -1,15 +1,5 @@
 [
   {
-    "type": "poll",
-    "text": "What’s your favorite way to learn new web technologies? 📚",
-    "options": [
-      "Online courses",
-      "YouTube videos",
-      "Documentation",
-      "Practice projects"
-    ]
-  },
-  {
     "type": "tweet",
     "text": "CSS tip: Use `max-width: 100%` to ensure your images don’t overflow their containers. Simple but crucial for responsive design! 🖼️ \n#FrontendDev #CSSTips"
   },
