@@ -1,10 +1,6 @@
 [
   {
     "type": "tweet",
-    "text": "CSS tip: Use `max-width: 100%` to ensure your images don’t overflow their containers. Simple but crucial for responsive design! 🖼️ \n#FrontendDev #CSSTips"
-  },
-  {
-    "type": "tweet",
     "text": "Did you know? The first high-level programming language was Fortran, developed in 1957. It’s still in use today! 🛠️ \n#ProgrammingHistory #FunFact"
   },
   {
