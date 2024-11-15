@@ -1,9 +1,5 @@
 [
   {
-    "type": "tweet",
-    "text": "Fun fact: The word ‘algorithm’ comes from the name of Persian mathematician Al-Khwarizmi, who contributed to the field of algebra. 📐 \n#ProgrammingHistory #FunFact"
-  },
-  {
     "type": "poll",
     "text": "What’s your favorite way to learn new web technologies? 📚",
     "options": [
