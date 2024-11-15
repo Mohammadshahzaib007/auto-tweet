@@ -1,10 +1,6 @@
 [
   {
     "type": "tweet",
-    "text": "💡 Use `flex-grow`, `flex-shrink`, and `flex-basis` for more control over your #CSS Flexbox layouts. Flexbox is your best friend for responsive design! 📱 \n#FrontendDev #CSS"
-  },
-  {
-    "type": "tweet",
     "text": "Fun fact: The word ‘algorithm’ comes from the name of Persian mathematician Al-Khwarizmi, who contributed to the field of algebra. 📐 \n#ProgrammingHistory #FunFact"
   },
   {
