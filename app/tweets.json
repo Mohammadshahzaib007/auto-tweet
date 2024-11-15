@@ -1,10 +1,6 @@
 [
   {
     "type": "tweet",
-    "text": "Did you know? The first high-level programming language was Fortran, developed in 1957. It’s still in use today! 🛠️ \n#ProgrammingHistory #FunFact"
-  },
-  {
-    "type": "tweet",
     "text": "💡 Want cleaner #ReactJS code? Use custom hooks to separate logic from UI. Keeps your components focused and reusable! 🔄 \n#WebDev #ReactTips"
   },
   {
