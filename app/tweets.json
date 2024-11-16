@@ -1,16 +1,5 @@
 [
   {
-    "type": "thread",
-    "thread": [
-      "🧵 Understanding Closures in JavaScript 🔒",
-      "1. A closure is the combination of a function and the lexical environment within which it was declared.",
-      "2. Closures give you access to an outer function’s scope from an inner function.",
-      "3. They are useful for data encapsulation and function factories.",
-      "4. Avoid memory leaks by ensuring closures aren't unnecessarily holding onto references.",
-      "5. Closures are a key concept in functional programming! 💡"
-    ]
-  },
-  {
     "type": "tweet",
     "text": "Developer life tip: Write comments in your code, but keep them concise and meaningful. Future you (or your team) will thank you! 📝 \n#DevLife #Programming"
   },
