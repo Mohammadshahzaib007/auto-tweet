@@ -1,10 +1,6 @@
 [
   {
     "type": "tweet",
-    "text": "💡 Want cleaner #ReactJS code? Use custom hooks to separate logic from UI. Keeps your components focused and reusable! 🔄 \n#WebDev #ReactTips"
-  },
-  {
-    "type": "tweet",
     "text": "JavaScript tip: The `reduce()` method is not just for reducing arrays. Use it for things like counting occurrences in an array or flattening nested arrays! 🔄 \n#JavaScriptTips #Frontend"
   },
   {
