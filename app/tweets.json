@@ -1,9 +1,5 @@
 [
   {
-    "type": "tweet",
-    "text": "JavaScript tip: The `reduce()` method is not just for reducing arrays. Use it for things like counting occurrences in an array or flattening nested arrays! 🔄 \n#JavaScriptTips #Frontend"
-  },
-  {
     "type": "thread",
     "thread": [
       "🧵 Understanding Closures in JavaScript 🔒",
