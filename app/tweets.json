@@ -1,10 +1,6 @@
 [
   {
     "type": "tweet",
-    "text": "Developer life tip: Write comments in your code, but keep them concise and meaningful. Future you (or your team) will thank you! 📝 \n#DevLife #Programming"
-  },
-  {
-    "type": "tweet",
     "text": "💡 Use #TypeScript to avoid type-related bugs and improve code quality in your projects. It makes JavaScript development more robust! 🛠️ \n#JavaScript #WebDev"
   },
   {
