@@ -1,10 +1,6 @@
 [
   {
     "type": "tweet",
-    "text": "Fact: The first ever email was sent by Ray Tomlinson to himself in 1971. He doesn’t remember what it said! 📧 \n#TechHistory #FunFact"
-  },
-  {
-    "type": "tweet",
     "text": "💡 Use `nth-child()` in #CSS for advanced targeting of elements without adding extra classes. It’s a powerful tool for cleaner HTML! 🎨 \n#CSSTips #FrontendDev"
   },
   {
