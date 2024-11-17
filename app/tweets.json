@@ -1,9 +1,5 @@
 [
   {
-    "type": "tweet",
-    "text": "💡 Use `nth-child()` in #CSS for advanced targeting of elements without adding extra classes. It’s a powerful tool for cleaner HTML! 🎨 \n#CSSTips #FrontendDev"
-  },
-  {
     "type": "poll",
     "text": "How do you stay updated with the latest web development trends? 🌐",
     "options": [
