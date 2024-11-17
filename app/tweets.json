@@ -1,15 +1,5 @@
 [
   {
-    "type": "poll",
-    "text": "How do you stay updated with the latest web development trends? 🌐",
-    "options": [
-      "Blogs",
-      "Podcasts",
-      "Social media",
-      "Conferences"
-    ]
-  },
-  {
     "type": "tweet",
     "text": "💡 Developer life tip: Get comfortable with version control. Tools like Git are indispensable when collaborating on projects or managing your own work. 🚀 \n#DevLife #Git"
   },
