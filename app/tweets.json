@@ -1,10 +1,6 @@
 [
   {
     "type": "tweet",
-    "text": "Pro tip: In #ReactJS, use `useEffect()` to handle side effects like fetching data or subscribing to a stream. It helps you manage lifecycle events! 🌍 \n#ReactTips #Frontend"
-  },
-  {
-    "type": "tweet",
     "text": "Did you know? The ‘404 Not Found’ error comes from the room number (404) where the original database was stored at CERN. 🚪 \n#WebDevHistory #FunFact"
   },
   {
