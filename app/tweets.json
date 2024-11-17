@@ -1,10 +1,6 @@
 [
   {
     "type": "tweet",
-    "text": "💡 Developer life tip: Get comfortable with version control. Tools like Git are indispensable when collaborating on projects or managing your own work. 🚀 \n#DevLife #Git"
-  },
-  {
-    "type": "tweet",
     "text": "Pro tip: In #ReactJS, use `useEffect()` to handle side effects like fetching data or subscribing to a stream. It helps you manage lifecycle events! 🌍 \n#ReactTips #Frontend"
   },
   {
