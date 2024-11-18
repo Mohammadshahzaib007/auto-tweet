@@ -1,15 +1,5 @@
 [
   {
-    "type": "poll",
-    "text": "What’s your go-to tool for version control? 🔄",
-    "options": [
-      "Git",
-      "SVN",
-      "Mercurial",
-      "None"
-    ]
-  },
-  {
     "type": "tweet",
     "text": "💡 Use the `CSS variables` feature to make your stylesheets more maintainable. Define colors, sizes, and more once, and reuse them across your project! 🎨 \n#CSSTips #Frontend"
   },
