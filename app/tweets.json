@@ -1,10 +1,6 @@
 [
   {
     "type": "tweet",
-    "text": "Developer life tip: Don’t be afraid to refactor your code. Cleaner code today saves headaches tomorrow. 🧠 \n#DevLife #Coding"
-  },
-  {
-    "type": "tweet",
     "text": "Fact: Git was created by Linus Torvalds in 2005 to manage the development of the Linux kernel. Now, it’s used by millions of developers worldwide! 🛠️ \n#GitHistory #DevTools"
   },
   {
