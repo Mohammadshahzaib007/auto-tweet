@@ -1,9 +1,5 @@
 [
   {
-    "type": "tweet",
-    "text": "💡 Use `localStorage` in #JavaScript for small, non-sensitive data storage that persists across sessions. Perfect for keeping user preferences! 🧠 \n#FrontendDev #WebDev"
-  },
-  {
     "type": "poll",
     "text": "What’s your go-to tool for version control? 🔄",
     "options": [
