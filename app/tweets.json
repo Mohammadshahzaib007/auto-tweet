@@ -1,10 +1,6 @@
 [
   {
     "type": "tweet",
-    "text": "💡 Use the `CSS variables` feature to make your stylesheets more maintainable. Define colors, sizes, and more once, and reuse them across your project! 🎨 \n#CSSTips #Frontend"
-  },
-  {
-    "type": "tweet",
     "text": "Developer life tip: Don’t be afraid to refactor your code. Cleaner code today saves headaches tomorrow. 🧠 \n#DevLife #Coding"
   },
   {
