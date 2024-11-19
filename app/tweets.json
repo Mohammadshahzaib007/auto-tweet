@@ -1,9 +1,5 @@
 [
   {
-    "type": "tweet",
-    "text": "💡 #ReactJS tip: Use PropTypes to enforce type-checking in your components. It helps catch bugs early and ensures your components get the right props! 🧑‍💻 \n#ReactTips #Frontend"
-  },
-  {
     "type": "poll",
     "text": "When working with APIs, which format do you prefer? 🌐",
     "options": [
