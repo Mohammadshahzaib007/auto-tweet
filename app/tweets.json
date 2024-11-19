@@ -1,15 +1,5 @@
 [
   {
-    "type": "poll",
-    "text": "When working with APIs, which format do you prefer? 🌐",
-    "options": [
-      "REST",
-      "GraphQL",
-      "SOAP",
-      "Other"
-    ]
-  },
-  {
     "type": "thread",
     "thread": [
       "🧵 The ultimate guide to CSS Grid! 🚀",
