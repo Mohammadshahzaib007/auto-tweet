@@ -1,16 +1,5 @@
 [
   {
-    "type": "thread",
-    "thread": [
-      "🧵 The ultimate guide to CSS Grid! 🚀",
-      "1. CSS Grid is a 2D layout system that lets you create flexible and responsive grid-based layouts. #CSSGrid",
-      "2. Use `grid-template-columns` to define the number and size of columns in your grid.",
-      "3. Use `grid-template-rows` to control the row structure of your layout.",
-      "4. Utilize `grid-gap` to add spacing between grid items.",
-      "5. `grid-area` lets you position items in a grid by specifying row and column start/end points."
-    ]
-  },
-  {
     "type": "tweet",
     "text": "Pro tip: Use `defer` or `async` when loading JavaScript files in the HTML `head`. It prevents blocking the rendering of your page! ⚡ \n#FrontendDev #JavaScript"
   },
