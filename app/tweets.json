@@ -1,10 +1,6 @@
 [
   {
     "type": "tweet",
-    "text": "Pro tip: Use `defer` or `async` when loading JavaScript files in the HTML `head`. It prevents blocking the rendering of your page! ⚡ \n#FrontendDev #JavaScript"
-  },
-  {
-    "type": "tweet",
     "text": "💡 Debugging is 90% reading code, 10% fixing it. The clearer your code, the faster the fix! 📚🔧 \n#DevLife #CodingTips"
   },
   {
