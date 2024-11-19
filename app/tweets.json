@@ -1,10 +1,6 @@
 [
   {
     "type": "tweet",
-    "text": "Fact: Git was created by Linus Torvalds in 2005 to manage the development of the Linux kernel. Now, it’s used by millions of developers worldwide! 🛠️ \n#GitHistory #DevTools"
-  },
-  {
-    "type": "tweet",
     "text": "💡 #ReactJS tip: Use PropTypes to enforce type-checking in your components. It helps catch bugs early and ensures your components get the right props! 🧑‍💻 \n#ReactTips #Frontend"
   },
   {
