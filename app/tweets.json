@@ -1,10 +1,6 @@
 [
   {
     "type": "tweet",
-    "text": "💡 Debugging is 90% reading code, 10% fixing it. The clearer your code, the faster the fix! 📚🔧 \n#DevLife #CodingTips"
-  },
-  {
-    "type": "tweet",
     "text": "💡 Did you know you can chain array methods like `.map()`, `.filter()`, and `.reduce()` in #JavaScript for cleaner, more readable code? 💻🔗 \n#WebDev #JavaScriptTips"
   },
   {
