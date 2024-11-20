@@ -1,15 +1,5 @@
 [
   {
-    "type": "poll",
-    "text": "What’s your preferred JavaScript testing framework? 🧪",
-    "options": [
-      "Jest",
-      "Mocha",
-      "Jasmine",
-      "Cypress"
-    ]
-  },
-  {
     "type": "tweet",
     "text": "Fun fact: HTML forms have existed since HTML 2.0 in 1995! They’ve been powering user inputs on the web for nearly 3 decades. ✍️ \n#HTML #WebHistory"
   },
