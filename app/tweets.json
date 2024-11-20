@@ -1,9 +1,5 @@
 [
   {
-    "type": "tweet",
-    "text": "💡 Did you know you can chain array methods like `.map()`, `.filter()`, and `.reduce()` in #JavaScript for cleaner, more readable code? 💻🔗 \n#WebDev #JavaScriptTips"
-  },
-  {
     "type": "poll",
     "text": "What’s your preferred JavaScript testing framework? 🧪",
     "options": [
