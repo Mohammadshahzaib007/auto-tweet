@@ -1,10 +1,6 @@
 [
   {
     "type": "tweet",
-    "text": "What’s one CSS trick you wish you’d learned sooner? For me, it’s `object-fit: cover` for responsive images! 📸 \n#CSSTips #FrontendDev"
-  },
-  {
-    "type": "tweet",
     "text": "Fact: The first web browser, WorldWideWeb (later renamed Nexus), was created by Tim Berners-Lee in 1990. We’ve come a long way since! 🌐💻 \n#WebHistory #FunFact"
   },
   {
