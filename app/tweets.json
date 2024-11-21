@@ -1,15 +1,5 @@
 [
   {
-    "type": "poll",
-    "text": "Do you prefer using a JavaScript framework or vanilla JS for projects? 🛠️",
-    "options": [
-      "Framework",
-      "Vanilla JS",
-      "Depends on the project",
-      "No preference"
-    ]
-  },
-  {
     "type": "tweet",
     "text": "💡 In #JavaScript, prefer `const` and `let` over `var` for block-scoped variables. It’ll save you from a lot of unexpected bugs! 🐞🧑‍💻 \n#JavaScriptTips #WebDev"
   },
