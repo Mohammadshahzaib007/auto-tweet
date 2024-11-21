@@ -1,9 +1,5 @@
 [
   {
-    "type": "tweet",
-    "text": "Pro tip: Always use `aria-label` in your buttons and interactive elements for better accessibility. Small details make a huge impact! ♿ \n#A11y #WebDev"
-  },
-  {
     "type": "poll",
     "text": "Do you prefer using a JavaScript framework or vanilla JS for projects? 🛠️",
     "options": [
