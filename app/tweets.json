@@ -1,10 +1,6 @@
 [
   {
     "type": "tweet",
-    "text": "💡 In #JavaScript, prefer `const` and `let` over `var` for block-scoped variables. It’ll save you from a lot of unexpected bugs! 🐞🧑‍💻 \n#JavaScriptTips #WebDev"
-  },
-  {
-    "type": "tweet",
     "text": "What’s one CSS trick you wish you’d learned sooner? For me, it’s `object-fit: cover` for responsive images! 📸 \n#CSSTips #FrontendDev"
   },
   {
