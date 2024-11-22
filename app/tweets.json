@@ -1,16 +1,5 @@
 [
   {
-    "type": "thread",
-    "thread": [
-      "🧵 5 Things Every Developer Should Know About Version Control 🧑‍💻",
-      "1. Commit often, but make sure each commit is meaningful. #GitTips",
-      "2. Write clear, descriptive commit messages for future reference.",
-      "3. Use branches to work on features or fixes without disrupting the main codebase.",
-      "4. Always pull before you push to avoid merge conflicts.",
-      "5. Learn how to rebase and merge—these are key to handling version history!"
-    ]
-  },
-  {
     "type": "tweet",
     "text": "Fun fact: The first known computer algorithm was written by Ada Lovelace in 1843—long before computers existed! 🖥️ \n#TechHistory #FunFact"
   },
