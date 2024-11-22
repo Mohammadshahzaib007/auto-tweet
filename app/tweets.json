@@ -1,9 +1,5 @@
 [
   {
-    "type": "tweet",
-    "text": "💡 When working with APIs, always handle errors gracefully. Use `try...catch` in #JavaScript to avoid runtime surprises! 🛡️ \n#WebDev #APITips"
-  },
-  {
     "type": "thread",
     "thread": [
       "🧵 5 Things Every Developer Should Know About Version Control 🧑‍💻",
