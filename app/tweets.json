@@ -1,15 +1,5 @@
 [
   {
-    "type": "poll",
-    "text": "Which state management library do you prefer? 📊",
-    "options": [
-      "Redux",
-      "MobX",
-      "Recoil",
-      "Context API"
-    ]
-  },
-  {
     "type": "tweet",
     "text": "💡 When working with APIs, always handle errors gracefully. Use `try...catch` in #JavaScript to avoid runtime surprises! 🛡️ \n#WebDev #APITips"
   },
