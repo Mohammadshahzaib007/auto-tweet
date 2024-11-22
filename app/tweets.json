@@ -1,9 +1,5 @@
 [
   {
-    "type": "tweet",
-    "text": "💡 Use `grid-template-areas` in CSS Grid for readable, maintainable layouts. It’s like labeling your layout sections! 🏗️ \n#CSSGrid #FrontendDev"
-  },
-  {
     "type": "poll",
     "text": "Which state management library do you prefer? 📊",
     "options": [
