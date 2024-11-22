@@ -1,10 +1,6 @@
 [
   {
     "type": "tweet",
-    "text": "Fact: The first web browser, WorldWideWeb (later renamed Nexus), was created by Tim Berners-Lee in 1990. We’ve come a long way since! 🌐💻 \n#WebHistory #FunFact"
-  },
-  {
-    "type": "tweet",
     "text": "💡 Use `grid-template-areas` in CSS Grid for readable, maintainable layouts. It’s like labeling your layout sections! 🏗️ \n#CSSGrid #FrontendDev"
   },
   {
