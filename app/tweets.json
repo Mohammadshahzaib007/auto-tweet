@@ -1,10 +1,6 @@
 [
   {
     "type": "tweet",
-    "text": "Fact: JSON stands for JavaScript Object Notation and has become a standard for APIs. But did you know it wasn’t initially meant for the web? 🌐 \n#APIFacts #WebDev"
-  },
-  {
-    "type": "tweet",
     "text": "What’s the most useful browser extension you’ve installed for development? I can’t live without the React DevTools! 🔍 \n#DevLife #BrowserTools"
   },
   {
