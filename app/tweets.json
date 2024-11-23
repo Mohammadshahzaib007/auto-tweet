@@ -1,15 +1,5 @@
 [
   {
-    "type": "poll",
-    "text": "How do you handle routing in your web applications? 📍",
-    "options": [
-      "React Router",
-      "Next.js",
-      "Custom implementation",
-      "No routing needed"
-    ]
-  },
-  {
     "type": "tweet",
     "text": "Fact: JSON stands for JavaScript Object Notation and has become a standard for APIs. But did you know it wasn’t initially meant for the web? 🌐 \n#APIFacts #WebDev"
   },
