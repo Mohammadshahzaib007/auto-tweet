@@ -1,9 +1,5 @@
 [
   {
-    "type": "tweet",
-    "text": "Do you use a CSS reset or normalize in your projects? It’s a small step that makes cross-browser consistency much easier! 🛠️🎨 \n#CSSTips #FrontendDev"
-  },
-  {
     "type": "poll",
     "text": "What's your go-to method for handling errors in JavaScript? ⚠️",
     "options": [
