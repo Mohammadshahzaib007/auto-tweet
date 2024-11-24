@@ -1,15 +1,5 @@
 [
   {
-    "type": "poll",
-    "text": "What's your go-to method for handling errors in JavaScript? ⚠️",
-    "options": [
-      "Try/Catch",
-      "Error boundaries",
-      "Logging",
-      "Ignoring"
-    ]
-  },
-  {
     "type": "tweet",
     "text": "💡 Use the `picture` element in HTML for responsive images that serve different resolutions or formats. Save bandwidth and boost performance! ⚡ \n#HTMLTips #WebDev"
   },
