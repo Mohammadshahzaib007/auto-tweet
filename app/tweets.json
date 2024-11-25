@@ -1,9 +1,5 @@
 [
   {
-    "type": "tweet",
-    "text": "💡 Use `CSS variables` (custom properties) for colors, spacing, and other repeated values. They make theming and updates a breeze! 🎨💼 \n#CSSTips #WebDev"
-  },
-  {
     "type": "poll",
     "text": "Which CSS framework do you find most helpful? 💻",
     "options": [
