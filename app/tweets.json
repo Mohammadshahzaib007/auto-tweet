@@ -1,9 +1,5 @@
 [
   {
-    "type": "tweet",
-    "text": "💡 Want smooth scroll effects on your website? Try `scroll-behavior: smooth;` in your CSS! 🌀 \n#FrontendTips #WebDev"
-  },
-  {
     "type": "thread",
     "thread": [
       "🧵 How to optimize your website for faster load times ⏱️",
