@@ -1,15 +1,5 @@
 [
   {
-    "type": "poll",
-    "text": "Which CSS framework do you find most helpful? 💻",
-    "options": [
-      "Bootstrap",
-      "Tailwind CSS",
-      "Foundation",
-      "Bulma"
-    ]
-  },
-  {
     "type": "tweet",
     "text": "Fun fact: The first version of Google was created in 1996 as a research project called ‘BackRub.’ 🧠🔍 \n#TechHistory #FunFact"
   },
