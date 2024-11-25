@@ -1,10 +1,6 @@
 [
   {
     "type": "tweet",
-    "text": "Fact: The term '404 error' was derived from a room number at CERN where the original web servers were housed. 🏢🔍 \n#WebHistory #FunFact"
-  },
-  {
-    "type": "tweet",
     "text": "💡 Use `CSS variables` (custom properties) for colors, spacing, and other repeated values. They make theming and updates a breeze! 🎨💼 \n#CSSTips #WebDev"
   },
   {
