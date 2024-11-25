@@ -1,10 +1,6 @@
 [
   {
     "type": "tweet",
-    "text": "Fun fact: The first version of Google was created in 1996 as a research project called ‘BackRub.’ 🧠🔍 \n#TechHistory #FunFact"
-  },
-  {
-    "type": "tweet",
     "text": "💡 Want smooth scroll effects on your website? Try `scroll-behavior: smooth;` in your CSS! 🌀 \n#FrontendTips #WebDev"
   },
   {
