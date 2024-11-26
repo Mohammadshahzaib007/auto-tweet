@@ -1,10 +1,6 @@
 [
   {
     "type": "tweet",
-    "text": "💡 Prefer using `JSON.stringify()` in #JavaScript to convert complex data structures to strings. Perfect for logging or sending data! 🔄 \n#JavaScriptTips #WebDev"
-  },
-  {
-    "type": "tweet",
     "text": "What’s your workflow like for tackling big projects? For me, breaking things into milestones and setting small goals works best. 🛠️📅 \n#DevLife #Productivity"
   },
   {
