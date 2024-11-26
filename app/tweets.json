@@ -1,9 +1,5 @@
 [
   {
-    "type": "tweet",
-    "text": "How do you balance learning new technologies while working on projects? It’s easy to get caught in the learning trap! 📚💡 \n#DevLife #DeveloperThoughts"
-  },
-  {
     "type": "poll",
     "text": "Do you prefer functional programming or object-oriented programming? 🤔",
     "options": [
