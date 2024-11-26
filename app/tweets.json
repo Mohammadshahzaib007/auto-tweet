@@ -1,15 +1,5 @@
 [
   {
-    "type": "poll",
-    "text": "Do you prefer functional programming or object-oriented programming? 🤔",
-    "options": [
-      "Functional",
-      "Object-oriented",
-      "Both",
-      "Neither"
-    ]
-  },
-  {
     "type": "tweet",
     "text": "💡 Prefer using `JSON.stringify()` in #JavaScript to convert complex data structures to strings. Perfect for logging or sending data! 🔄 \n#JavaScriptTips #WebDev"
   },
