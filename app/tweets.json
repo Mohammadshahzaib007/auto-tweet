@@ -1,16 +1,5 @@
 [
   {
-    "type": "thread",
-    "thread": [
-      "🧵 How to optimize your website for faster load times ⏱️",
-      "1. Minify CSS and JavaScript to reduce file sizes and improve performance.",
-      "2. Lazy load images and assets that aren’t immediately needed. #WebPerf",
-      "3. Use a content delivery network (CDN) to serve static files more quickly.",
-      "4. Compress images with modern formats like WebP to save bandwidth.",
-      "5. Reduce HTTP requests by combining files where possible."
-    ]
-  },
-  {
     "type": "tweet",
     "text": "How do you balance learning new technologies while working on projects? It’s easy to get caught in the learning trap! 📚💡 \n#DevLife #DeveloperThoughts"
   },
