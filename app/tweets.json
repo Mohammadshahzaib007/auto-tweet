@@ -1,10 +1,6 @@
 [
   {
     "type": "tweet",
-    "text": "💡 Consider using `data-*` attributes in HTML for storing extra information on DOM elements. Great for custom attributes! 🔍 \n#HTMLTips #FrontendDev"
-  },
-  {
-    "type": "tweet",
     "text": "What’s your favorite part of the development process? For me, it’s the ‘aha!’ moment when a complex bug is finally fixed! 🧩💡 \n#DevLife #DeveloperThoughts"
   },
   {
