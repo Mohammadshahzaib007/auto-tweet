@@ -1,10 +1,6 @@
 [
   {
     "type": "tweet",
-    "text": "Fun fact: The programming language Ruby was named after a precious stone, as a competitor to Perl (also a gem). 💎📝 \n#TechHistory #FunFact"
-  },
-  {
-    "type": "tweet",
     "text": "💡 Need to combine multiple arrays into one in #JavaScript? Use the `spread operator` or `Array.concat()` for a clean solution! 🔄 \n#JavaScriptTips #WebDev"
   },
   {
