@@ -1,15 +1,5 @@
 [
   {
-    "type": "poll",
-    "text": "How often do you write documentation for your code? 📝",
-    "options": [
-      "Always",
-      "Sometimes",
-      "Rarely",
-      "Never"
-    ]
-  },
-  {
     "type": "tweet",
     "text": "Fact: Over 2.5 quintillion bytes of data are created daily! Ever thought about where all that data is stored? 🧠💽 \n#DataFacts #TechStats"
   },
