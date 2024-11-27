@@ -1,10 +1,6 @@
 [
   {
     "type": "tweet",
-    "text": "Fact: Over 2.5 quintillion bytes of data are created daily! Ever thought about where all that data is stored? 🧠💽 \n#DataFacts #TechStats"
-  },
-  {
-    "type": "tweet",
     "text": "💡 Consider using `data-*` attributes in HTML for storing extra information on DOM elements. Great for custom attributes! 🔍 \n#HTMLTips #FrontendDev"
   },
   {
