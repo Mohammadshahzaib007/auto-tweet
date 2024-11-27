@@ -1,9 +1,5 @@
 [
   {
-    "type": "tweet",
-    "text": "💡 Need to combine multiple arrays into one in #JavaScript? Use the `spread operator` or `Array.concat()` for a clean solution! 🔄 \n#JavaScriptTips #WebDev"
-  },
-  {
     "type": "poll",
     "text": "How often do you write documentation for your code? 📝",
     "options": [
