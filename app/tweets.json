@@ -1,10 +1,6 @@
 [
   {
     "type": "tweet",
-    "text": "Fact: The `favicon` in your browser tab was first introduced by Internet Explorer 5 in 1999! 🔖 \n#WebHistory #FunFact"
-  },
-  {
-    "type": "tweet",
     "text": "💡 Avoid large, unnecessary re-renders in #ReactJS by using `React.memo()` or `useCallback()` for better performance. 🚀 \n#ReactTips #WebDev"
   },
   {
