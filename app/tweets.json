@@ -1,15 +1,5 @@
 [
   {
-    "type": "poll",
-    "text": "Which method do you prefer for API authentication? 🔑",
-    "options": [
-      "OAuth",
-      "JWT",
-      "Basic Auth",
-      "None"
-    ]
-  },
-  {
     "type": "tweet",
     "text": "What do you use to keep track of your learning progress? I’m all about Notion and Google Keep for notes and tasks. 📋 \n#ProductivityTips #DevLife"
   },
