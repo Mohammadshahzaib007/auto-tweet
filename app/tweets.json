@@ -1,9 +1,5 @@
 [
   {
-    "type": "tweet",
-    "text": "Fun fact: The floppy disk icon used for ‘save’ is recognized globally, but most people today have never actually used one! 💾 \n#TechHistory #FunFact"
-  },
-  {
     "type": "poll",
     "text": "Which method do you prefer for API authentication? 🔑",
     "options": [
