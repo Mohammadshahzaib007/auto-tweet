@@ -1,9 +1,5 @@
 [
   {
-    "type": "tweet",
-    "text": "💡 Avoid large, unnecessary re-renders in #ReactJS by using `React.memo()` or `useCallback()` for better performance. 🚀 \n#ReactTips #WebDev"
-  },
-  {
     "type": "thread",
     "thread": [
       "🧵 5 Essential VSCode Extensions for Developers 🔥",
