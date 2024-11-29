@@ -1,15 +1,5 @@
 [
   {
-    "type": "poll",
-    "text": "What’s your favorite way to deploy your web applications? 🚀",
-    "options": [
-      "Vercel",
-      "Netlify",
-      "Heroku",
-      "Custom server"
-    ]
-  },
-  {
     "type": "tweet",
     "text": "Fun fact: The first mobile app ever created was a simple contact list and calendar for the IBM Simon, launched in 1994! 📱 \n#TechHistory #FunFact"
   },
