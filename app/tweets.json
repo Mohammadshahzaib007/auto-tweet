@@ -1,16 +1,5 @@
 [
   {
-    "type": "thread",
-    "thread": [
-      "🧵 5 Essential VSCode Extensions for Developers 🔥",
-      "1. Prettier: Automatically format your code for consistent styling.",
-      "2. ESLint: Catch errors and enforce code standards while you code.",
-      "3. Live Server: Preview your website in real-time while you code.",
-      "4. GitLens: Supercharge your git integration within VSCode.",
-      "5. Path Intellisense: Auto-completes filenames in your project."
-    ]
-  },
-  {
     "type": "poll",
     "text": "What’s your favorite way to deploy your web applications? 🚀",
     "options": [
