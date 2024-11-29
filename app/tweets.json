@@ -1,10 +1,6 @@
 [
   {
     "type": "tweet",
-    "text": "Fun fact: The first mobile app ever created was a simple contact list and calendar for the IBM Simon, launched in 1994! 📱 \n#TechHistory #FunFact"
-  },
-  {
-    "type": "tweet",
     "text": "💡 Use CSS `aspect-ratio` to keep your images and elements responsive while maintaining a fixed ratio. No more manual padding hacks! 📐 \n#CSSGrid #FrontendTips"
   },
   {
