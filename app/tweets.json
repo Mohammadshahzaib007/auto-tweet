@@ -1,10 +1,6 @@
 [
   {
     "type": "tweet",
-    "text": "💡 Use CSS `aspect-ratio` to keep your images and elements responsive while maintaining a fixed ratio. No more manual padding hacks! 📐 \n#CSSGrid #FrontendTips"
-  },
-  {
-    "type": "tweet",
     "text": "What’s one lesson you’ve learned from a coding failure? For me, it’s to always back up my work before testing experimental changes! 💻⚠️ \n#DevLife #CodingMistakes"
   },
   {
