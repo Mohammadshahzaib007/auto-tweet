@@ -1,9 +1,5 @@
 [
   {
-    "type": "tweet",
-    "text": "Fact: More than 70% of all web traffic is powered by JavaScript, making it the backbone of the modern web. 🌐💻 \n#JavaScriptFacts #WebDev"
-  },
-  {
     "type": "poll",
     "text": "How do you optimize your website’s performance? ⚡",
     "options": [
