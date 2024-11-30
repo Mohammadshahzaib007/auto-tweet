@@ -1,15 +1,5 @@
 [
   {
-    "type": "poll",
-    "text": "How do you optimize your website’s performance? ⚡",
-    "options": [
-      "Lazy loading",
-      "Code splitting",
-      "Minification",
-      "Caching"
-    ]
-  },
-  {
     "type": "tweet",
     "text": "How do you manage your workflow for larger teams? For me, it’s about having good communication tools and clear responsibilities. 💼📅 \n#DevLife #TeamManagement"
   },
