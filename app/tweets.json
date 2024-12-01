@@ -1,9 +1,5 @@
 [
   {
-    "type": "tweet",
-    "text": "🤔 A quick tip for cleaner #JavaScript code: Use destructuring when accessing object properties. It’s more concise and readable! #CodeTips #WebDev"
-  },
-  {
     "type": "poll",
     "text": "What do you consider the most important part of a website? 🏆",
     "options": [
