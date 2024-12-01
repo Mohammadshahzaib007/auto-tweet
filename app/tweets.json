@@ -1,10 +1,6 @@
 [
   {
     "type": "tweet",
-    "text": "💡Use `alt` attributes for images. It’s essential for accessibility and SEO! Always provide descriptive text for visually impaired users. #WebAccessibility #SEO"
-  },
-  {
-    "type": "tweet",
     "text": "🤔 A quick tip for cleaner #JavaScript code: Use destructuring when accessing object properties. It’s more concise and readable! #CodeTips #WebDev"
   },
   {
