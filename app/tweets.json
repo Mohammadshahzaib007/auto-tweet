@@ -1,15 +1,5 @@
 [
   {
-    "type": "poll",
-    "text": "What do you consider the most important part of a website? 🏆",
-    "options": [
-      "Design",
-      "Functionality",
-      "Performance",
-      "Content"
-    ]
-  },
-  {
     "type": "tweet",
     "text": "Need to convert an array of objects into a single object? Use `reduce()` in #JavaScript! 🧑‍💻 It’s a powerful method for transforming data. #CodeTips #WebDevelopment"
   },
